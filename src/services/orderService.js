@@ -35,7 +35,7 @@ const create = async function(userId, token, addressId, remarks, cartDetailIds) 
 }
 
 /**
- * 申请退款
+ * Request a refund
  */
 const remove = async function(userId, token, orderId) {
   return await rest.post(userId, token)(

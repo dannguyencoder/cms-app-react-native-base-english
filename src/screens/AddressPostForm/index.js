@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
 )
 export default class AddressPostForm extends React.Component {
   static navigationOptions = ({navigation}) => ({
-    title: '添加新收货地址'
+    title: 'Add a new shipping address'
   })
 
   state = {
@@ -123,7 +123,7 @@ export default class AddressPostForm extends React.Component {
   }
 
   /**
-   * 改变isDefault
+   * Change isDefault
    *
    * @memberof AddressPostForm
    */
@@ -137,7 +137,7 @@ export default class AddressPostForm extends React.Component {
   }
 
   /**
-   * 改变form的值
+   * Change the value of form
    *
    * @memberof AddressPostForm
    */
@@ -177,7 +177,7 @@ export default class AddressPostForm extends React.Component {
       if (this.props.postErrorMessage !== "") {
         this.showToast(this.props.postErrorMessage, 'danger')
       } else {
-        this.showToast('成功添加新收货地址', 'success')
+        this.showToast('Successfully added new shipping address', 'success')
 
         navigation.navigate('Address')
       }
@@ -190,27 +190,27 @@ export default class AddressPostForm extends React.Component {
     } = this.state
 
     if (form.consignee === "") {
-      this.showToast('请输入正确的收货人姓名')
+      this.showToast('Please enter the correct consignee name')
       return false
     }
 
     if (!RE_PHONE.test(form.phone)) {
-      this.showToast('请输入正确的手机号码')
+      this.showToast('Please enter the correct phone number')
       return false
     }
 
     if (form.city === "") {
-      this.showToast('请选择城市')
+      this.showToast('Please select city')
       return false
     }
 
     if (form.address === "") {
-      this.showToast('请输入正确的详细地址')
+      this.showToast('Please enter the correct full address')
       return false
     }
 
     if (form.streetNumber === "") {
-      this.showToast('请输入正确的门牌号')
+      this.showToast('Please enter the correct house number')
       return false
     }
 
@@ -232,14 +232,14 @@ export default class AddressPostForm extends React.Component {
         <Content>
           <Form>
             <Item stackedLabel>
-              <Label>收货人姓名</Label>
+              <Label>Consignee name</Label>
               <Input
                 value={this.state.form.consignee}
                 onChangeText={text => this.handleValueChange({consignee: text})}
               />
             </Item>
             <Item stackedLabel>
-              <Label>手机号码</Label>
+              <Label>cellphone number</Label>
               <Input
                 keyboardType="numeric"
                 maxLength={12}
@@ -248,22 +248,22 @@ export default class AddressPostForm extends React.Component {
               />
             </Item>
             <Item stackedLabel onPress={this.handleModalShow}>
-              <Label>城市</Label>
+              <Label>city</Label>
               <Input disabled value={this.state.form.city}/>
             </Item>
             <Item stackedLabel>
-              <Label>详细地址</Label>
+              <Label>Address</Label>
               <Input
                 value={this.state.form.address}
                 onChangeText={text => this.handleValueChange({address: text})}
               />
             </Item>
             <Item stackedLabel>
-              <Label>门牌号</Label>
+              <Label>House number</Label>
               <Input value={this.state.form.streetNumber} onChangeText={text => this.handleValueChange({streetNumber: text})}/>
             </Item>
             <Item onPress={this.handleIsDefaultChange}>
-              <Label>是否为默认地址</Label>
+              <Label>Is it the default address?</Label>
               <CheckBox checked={this.state.form.isDefault} disabled color={RED_COLOR} />
               <Input disabled />
             </Item>

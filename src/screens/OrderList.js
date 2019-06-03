@@ -35,25 +35,25 @@ import {
 )
 export default class OrderList extends React.Component {
   static navigationOptions = ({ navigation }) => ({
-    title: '订单中心',
+    title: 'Order center',
     tabBarComponent: null
   })
 
   constructor(props) {
     super(props)
     this.status = new Map([
-      [ORDER_WAIT, '待发货'],
-      [ORDER_DISPATCHING, '配送中'],
-      [ORDER_FINISH, '已完成'],
-      [ORDER_REFUNDING, '退款中'],
-      [ORDER_REFUND_SUCCESS, '退款成功'],
-      [ORDER_REFUNDING_FAILURE, '退款失败']
+      [ORDER_WAIT, 'to be delivered'],
+      [ORDER_DISPATCHING, 'In distribution'],
+      [ORDER_FINISH, 'completed'],
+      [ORDER_REFUNDING, 'Refunding'],
+      [ORDER_REFUND_SUCCESS, 'Refund successfully'],
+      [ORDER_REFUNDING_FAILURE, 'Refund failed']
     ])
   }
 
   componentWillMount() {
     if (!this.props.isAuthorized) {
-      this._showToast('请先登录', 'danger')
+      this._showToast('please log in first', 'danger')
       this.props.navigation.navigate('Signin', { from: 'Cart'} )
     } else {
       if (this.props.navigation.state.params && this.props.navigation.state.params.status !== null) {

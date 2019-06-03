@@ -104,14 +104,14 @@ export default class Profile extends React.Component {
 
   handleSignout = () => {
     this.props.logout()
-    this._showToast('退出成功', 'success')
+    this._showToast('exit successfully', 'success')
   }
 
   handleGotoAddress = () => {
     if (this._checkAuthorization()) {
       this.props.navigation.navigate('Address')
     } else {
-      this._showToast('请先登录')
+      this._showToast('please log in first')
       this.handleGotoSignin()
     }
   }
@@ -120,7 +120,7 @@ export default class Profile extends React.Component {
     if (this._checkAuthorization()) {
       this.props.navigation.navigate('OrderList')
     } else {
-      this._showToast('请先登录')
+      this._showToast('please log in first')
       this.handleGotoSignin()
     }
   }
@@ -129,7 +129,7 @@ export default class Profile extends React.Component {
     if (this._checkAuthorization()) {
       this.props.navigation.navigate('OrderList', { status: ORDER_DISPATCHING })
     } else {
-      this._showToast('请先登录')
+      this._showToast('please log in first')
       this.handleGotoSignin()
     }
   }
@@ -138,7 +138,7 @@ export default class Profile extends React.Component {
     if (this._checkAuthorization()) {
       this.props.navigation.navigate('OrderList', { status: ORDER_REFUNDING })
     } else {
-      this._showToast('请先登录')
+      this._showToast('please log in first')
       this.handleGotoSignin()
     }
   }
@@ -147,7 +147,7 @@ export default class Profile extends React.Component {
     if (this._checkAuthorization()) {
       this.props.navigation.navigate('OrderList', { status: ORDER_WAIT })
     } else {
-      this._showToast('请先登录')
+      this._showToast('please log in first')
       this.handleGotoSignin()
     }
   }
@@ -251,7 +251,7 @@ export default class Profile extends React.Component {
         <TouchableNativeFeedback onPress={this.handleGotoAddress}>
           <Grid style={styles.firstListRow}>
             <Col>
-              <Text>地址管理</Text>
+              <Text>Address management</Text>
             </Col>
             <Col>
               <Text style={{textAlign: 'right'}}>
@@ -263,7 +263,7 @@ export default class Profile extends React.Component {
         {/* <TouchableNativeFeedback onPress={this._concatWithService}>
           <Grid style={styles.listRow}>
             <Col>
-              <Text>联系客服</Text>
+              <Text>Contact Customer Service</Text>
             </Col>
             <Col>
               <Text style={{textAlign: 'right'}}>
@@ -274,7 +274,7 @@ export default class Profile extends React.Component {
         </TouchableNativeFeedback> */}
         {/* <Grid style={styles.listRow}>
           <Col>
-            <Text>推荐好友</Text>
+            <Text>Recommend friends</Text>
           </Col>
           <Col>
             <Text style={{textAlign: 'right'}}>
@@ -285,7 +285,7 @@ export default class Profile extends React.Component {
         {/* <TouchableNativeFeedback onPress={this._handleSuggest}>
           <Grid style={styles.listRow}>
             <Col>
-              <Text>意见反馈</Text>
+              <Text>Feedback</Text>
             </Col>
             <Col>
               <Text style={{textAlign: 'right'}}>
@@ -296,7 +296,7 @@ export default class Profile extends React.Component {
         </TouchableNativeFeedback> */}
         {/* <Grid style={styles.listRow}>
           <Col>
-            <Text>喜欢我们</Text>
+            <Text>Like us</Text>
           </Col>
           <Col>
             <Text style={{textAlign: 'right'}}>
@@ -308,7 +308,7 @@ export default class Profile extends React.Component {
           <TouchableNativeFeedback onPress={this.handleSignout}>
             <Grid style={styles.listRow}>
               <Col>
-                <Text>退出账号</Text>
+                <Text>Exit account</Text>
               </Col>
               <Col>
                 <Text style={{textAlign: 'right'}}>

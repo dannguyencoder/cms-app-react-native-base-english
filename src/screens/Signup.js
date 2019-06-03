@@ -54,7 +54,7 @@ export default class Signup extends React.Component {
   }
 
   static navigationOptions = ({navigation}) => ({
-    title: '注册'
+    title: 'registered'
   })
 
   handleSubmit = (e) => {
@@ -82,7 +82,7 @@ export default class Signup extends React.Component {
     if (errorMessage !== "") {
       this.showToast(errorMessage)
     } else {
-      this.showToast('注册成功！', 'success')
+      this.showToast('registration success！', 'success')
 
       if (navigation.state.params) {
         if (navigation.state.params.from) {
@@ -115,7 +115,7 @@ export default class Signup extends React.Component {
       this.setState({
         usernameErr: true,
       })
-      validMessage = '请输入正确用户名，字母开头，不能少于六位数'
+      validMessage = 'Please enter the correct username, starting with a letter, no less than six digits'
       this.showToast(validMessage)
       return false;
     }
@@ -124,7 +124,7 @@ export default class Signup extends React.Component {
       this.setState({
         passwordErr: true,
       })
-      validMessage = '密码不能少于6位数'
+      validMessage = 'Password cannot be less than 6 digits'
       this.showToast(validMessage)
       return false;
     }
@@ -133,7 +133,7 @@ export default class Signup extends React.Component {
       this.setState({
         phoneErr: true,
       })
-      validMessage = '密码不能少于6位数'
+      validMessage = 'Password cannot be less than 6 digits'
       this.showToast(validMessage)
       return false;
     }
@@ -154,7 +154,7 @@ export default class Signup extends React.Component {
       <Content padder style={styles.content}>
         <Form>
           <Item floatingLabel error={this.state.usernameErr}>
-            <Label>用户名</Label>
+            <Label>username</Label>
             <Input
               value={this.state.username}
               onChangeText={(text) => this.setState({username: text})}
@@ -166,7 +166,7 @@ export default class Signup extends React.Component {
             }
           </Item>
           <Item floatingLabel error={this.state.passwordErr}>
-            <Label>密码</Label>
+            <Label>password</Label>
             <Input
               value={this.state.password}
               type="password"
@@ -180,7 +180,7 @@ export default class Signup extends React.Component {
             }
           </Item>
           <Item floatingLabel error={this.state.phoneErr}>
-            <Label>手机号码</Label>
+            <Label>cellphone number</Label>
             <Input
               value={this.state.phone}
               onChangeText={(text) => this.setState({phone: text})}
@@ -204,7 +204,7 @@ export default class Signup extends React.Component {
                 <Spinner />
               ) : null
             }
-            <Text>注册</Text>
+            <Text>registered</Text>
           </Button>
         </Form>
       </Content>

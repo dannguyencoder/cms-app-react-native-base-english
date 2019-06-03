@@ -75,7 +75,7 @@ export default class Root extends Component {
             onPress={this.toggle1}
           >
             <Icon name="home" />
-            <Text>首页</Text>
+            <Text>Home</Text>
           </Button>
           <Button
             vertical
@@ -83,7 +83,7 @@ export default class Root extends Component {
             onPress={this.toggle2}
           >
             <Icon name="apps" />
-            <Text>分类</Text>
+            <Text>classification</Text>
           </Button>
           <Button
             vertical
@@ -91,7 +91,7 @@ export default class Root extends Component {
             onPress={this.toggle3}
           >
             <Icon name="cart" />
-            <Text>购物车</Text>
+            <Text>shopping cart</Text>
           </Button>
           <Button
             vertical
@@ -99,7 +99,7 @@ export default class Root extends Component {
             onPress={this.toggle4}
           >
             <Icon name="person" />
-            <Text>我的</Text>
+            <Text>mine</Text>
           </Button>
         </FooterTab>
       </Footer>

@@ -64,7 +64,7 @@ function AddressHeader(props) {
         </View>
         <View>
           <Text numberOfLines={2} style={{color: '#666'}}>
-            收货地址：{address.city + address.address + address.streetNumber}
+            Shipping address：{address.city + address.address + address.streetNumber}
           </Text>
         </View>
       </View>

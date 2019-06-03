@@ -28,70 +28,70 @@ const styles = StyleSheet.create({
 
 // const categories = [{
 //     id: 10000000,
-//     categoryName: '精品水果',
+//     categoryName: 'Fine fruit',
 //     secondCategories: [{
 //       id: 10000000,
-//       categorySecondName: '应季热销',
+//       categorySecondName: 'Seasonal sales',
 //       image: 'http://119.29.161.228/cloudimg/categories/yingjirexiao.png'
 //     }, {
 //       id: 10000001,
-//       categorySecondName: '瓜类',
+//       categorySecondName: 'Melon',
 //       image: 'http://119.29.161.228/cloudimg/categories/gualei.png'
 //     }, {
 //       id: 10000002,
-//       categorySecondName: '苹果梨',
+//       categorySecondName: 'Apple pear',
 //       image: 'http://119.29.161.228/cloudimg/categories/pingguoli.png'
 //     }, {
 //       id: 10000003,
-//       categorySecondName: '小果类',
+//       categorySecondName: 'Small fruit',
 //       image: 'http://119.29.161.228/cloudimg/categories/xiaoguolei.png'
 //     }]
 //   }, {
 //     id: 10000001,
-//     categoryName: '优选蔬菜',
+//     categoryName: 'Preferred vegetables',
 //     secondCategories: [{
 //       id: 10000004,
-//       categorySecondName: '豆类',
+//       categorySecondName: 'Beans',
 //       image: 'http://119.29.161.228/cloudimg/categories/doulei.png'
 //     }, {
 //       id: 10000005,
-//       categorySecondName: '调味类',
+//       categorySecondName: 'Seasoning',
 //       image: 'http://119.29.161.228/cloudimg/categories/tiaoweilei.png'
 //     }, {
 //       id: 10000006,
-//       categorySecondName: '叶菜类',
+//       categorySecondName: 'Leafy vegetables',
 //       image: 'http://119.29.161.228/cloudimg/categories/yecailei.png'
 //     }]
 //   }, {
 //     id: 10000002,
-//     categoryName: '禽鱼肉类',
+//     categoryName: 'Poultry fish',
 //     secondCategories: [{
 //     id: 10000007,
-//       categorySecondName: '鸡鸭禽肉',
+//       categorySecondName: 'Chicken, duck and poultry',
 //       image: 'http://119.29.161.228/cloudimg/categories/jiyaqinrou.png'
 //     }, {
 //       id: 10000008,
-//       categorySecondName: '牛肉牛排',
+//       categorySecondName: 'Beef steak',
 //       image: 'http://119.29.161.228/cloudimg/categories/niurouniupai.png'
 //     }, {
 //       id: 10000009,
-//       categorySecondName: '软体类',
+//       categorySecondName: 'Software class',
 //       image: 'http://119.29.161.228/cloudimg/categories/ruantilei.png'
 //     }, {
 //       id: 10000010,
-//       categorySecondName: '虾类',
+//       categorySecondName: 'Shrimp',
 //       image: 'http://119.29.161.228/cloudimg/categories/xialei.png'
 //     }, {
 //       id: 10000011,
-//       categorySecondName: '蟹类贝类',
+//       categorySecondName: 'Crab shellfish',
 //       image: 'http://119.29.161.228/cloudimg/categories/xieleibeilei.png'
 //     }, {
 //       id: 10000012,
-//       categorySecondName: '鱼类',
+//       categorySecondName: 'Fish',
 //       image: 'http://119.29.161.228/cloudimg/categories/yulei.png'
 //     }, {
 //       id: 10000013,
-//       categorySecondName: '猪肉类',
+//       categorySecondName: 'Pork',
 //       image: 'http://119.29.161.228/cloudimg/categories/zhuroulei.png'
 //     }]
 //   }

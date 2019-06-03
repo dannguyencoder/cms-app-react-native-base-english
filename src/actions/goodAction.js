@@ -63,7 +63,7 @@ function loadGoods(page, rows, orderBy, good) {
       return dispatch(receiveGoods(goods))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = "服务器睡着了，请稍后再试"
+        const errorMessage = "The server is asleep, please try again later"
         return dispatch(serviceFailure(errorMessage))
       }
     }
@@ -81,7 +81,7 @@ function search(page, rows, good) {
       return dispatch(receiveSearch(goods))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = "服务器睡着了，请稍后再试"
+        const errorMessage = "The server is asleep, please try again later"
         return dispatch(serviceFailure(errorMessage))
       }
     }
@@ -99,7 +99,7 @@ function getOneGood(goodId) {
       return dispatch(receiveOneGood(good))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = "服务器睡着了，请稍后再试"
+        const errorMessage = "The server is asleep, please try again later"
         return dispatch(serviceFailure(errorMessage))
       }
     }

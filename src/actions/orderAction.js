@@ -59,7 +59,7 @@ function getOrdersByUserId(userId, token, status) {
       return dispatch(fetchOrdersSuccess(data))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = '服务器错误，请稍后再试'
+        const errorMessage = 'Server error, please try again later'
         return dispatch(authError(errorMessage))
       }
 
@@ -84,7 +84,7 @@ function createOrder(userId, token, addressId, remarks, cartDetailIds) {
       return dispatch(postOrderSuccess())
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = '服务器错误，请稍后再试'
+        const errorMessage = 'Server error, please try again later'
         return dispatch(authError(errorMessage))
       }
 

@@ -59,7 +59,7 @@ const styles = StyleSheet.create({
 )
 export default class CreateOrder extends React.Component {
   static navigationOptions = ({ navigation }) => ({
-    title: '确认订单',
+    title: 'Confirm Order',
     tabBarComponent: null
   })
 
@@ -183,16 +183,16 @@ export default class CreateOrder extends React.Component {
           <List style={{backgroundColor: '#fff', marginTop: 20}}>
             <ListItem icon>
               <Body>
-                <Text>配送方式</Text>
+                <Text>Delivery Method</Text>
               </Body>
               <Right>
-                <Text>快递免邮费</Text>
+                <Text>Express free postage</Text>
                 <Icon name="ios-arrow-forward-outline" />
               </Right>
             </ListItem>
             <ListItem icon>
               <Body>
-                <Text>退货须知</Text>
+                <Text>Return notice</Text>
               </Body>
               <Right>
                 <Icon name="ios-information-circle-outline" fontSize="30" />
@@ -200,9 +200,9 @@ export default class CreateOrder extends React.Component {
             </ListItem>
             <ListItem>
               <Text>
-                买家留言
+                Buyer message
               </Text>
-              <Input placeholder="选填留言" onChangeText={(text) => this.setState({remarks: text})} />
+              <Input placeholder="Optional message" onChangeText={(text) => this.setState({remarks: text})} />
             </ListItem>
           </List>
           <View style={{height: 500, flexDirection: 'column'}}>
@@ -214,7 +214,7 @@ export default class CreateOrder extends React.Component {
         <TouchableNativeFeedback onPress={this.handleOrder}>
           <Footer style={styles.footer}>
             <Text style={styles.footerContent}>
-              提交订单
+              Submit orders
             </Text>
           </Footer>
         </TouchableNativeFeedback>

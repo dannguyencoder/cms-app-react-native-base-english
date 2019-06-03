@@ -53,7 +53,7 @@ export default class extends React.Component {
         dealGoods.push(goods.slice(i, i + 2))
       }
 
-      // 判断是否为单数，是单数在尾部加一个null
+      // Determine whether it is singular, and add a null to the singular at the end
       if (length % 2 === 1) {
         const lastGoods = dealGoods.pop()
         lastGoods.push(null)

@@ -38,7 +38,7 @@ function getAllAdvs() {
       return dispatch(fetchAdvsSuccess(user))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = '服务器错误，请稍后再试'
+        const errorMessage = 'Server error, please try again later'
         return dispatch(authError(errorMessage))
       }
     }

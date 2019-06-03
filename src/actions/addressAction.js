@@ -64,7 +64,7 @@ function postAddressFailure(message) {
 }
 
 /**
- * 获取用户的全部地址信息
+ * Get all the user's address information
  *
  * @param {any} userId
  * @param {any} token
@@ -80,7 +80,7 @@ function loadAllAddesses(userId, token) {
     } catch (err) {
       let errorMessage
       if (err.response === undefined) {
-        errorMessage = '服务器睡着了，请稍后再试'
+        errorMessage = 'The server is asleep, please try again later'
       }
 
       if (err.response.status === 400) {
@@ -99,7 +99,7 @@ function loadAllAddesses(userId, token) {
 }
 
 /**
- * 根据地址id获取用户的一条地址信息
+ * Obtain an address information of the user according to the address id
  *
  * @param {any} userId
  * @param {any} token
@@ -116,7 +116,7 @@ function getAddress(userId, token, addressId) {
     } catch (err) {
       let errorMessage
       if (err.response === undefined) {
-        errorMessage = '服务器睡着了，请稍后再试'
+        errorMessage = 'The server is asleep, please try again later'
       }
 
       if (err.response.status === 400) {
@@ -135,7 +135,7 @@ function getAddress(userId, token, addressId) {
 }
 
 /**
- * 创建一条新的地址信息
+ * Create a new address message
  *
  * @param {any} userId
  * @param {any} token
@@ -151,7 +151,7 @@ function createAddress(userId, token, address) {
     } catch (err) {
       let errorMessage
       if (err.response === undefined) {
-        errorMessage = '服务器睡着了，请稍后再试'
+        errorMessage = 'The server is asleep, please try again later'
       }
 
       if (err.response.status === 400) {

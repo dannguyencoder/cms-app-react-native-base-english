@@ -130,24 +130,24 @@ export default class extends React.Component {
                 </View>
                 <Grid style={styles.desc}>
                   <Col style={styles.descBorderWrapper}>
-                    <Text style={styles.descTitle}>产地</Text>
+                    <Text style={styles.descTitle}>Place of origin</Text>
                     <Text style={styles.descContent}>{good.origin}</Text>
                   </Col>
                   <Col style={styles.descBorderWrapper}>
-                    <Text style={styles.descTitle}>规格</Text>
+                    <Text style={styles.descTitle}>specification</Text>
                     <Text style={styles.descContent}>{good.spec}</Text>
                   </Col>
                   <Col style={styles.descBorderWrapper}>
-                    <Text style={styles.descTitle}>分类</Text>
+                    <Text style={styles.descTitle}>classification</Text>
                     <Text style={styles.descContent}>{categoryName}</Text>
                   </Col>
                 </Grid>
                 <View style={styles.list}>
                   <View style={styles.listItem}>
-                    <Text style={{fontSize: 20, color: '#333', textAlign: 'center'}}>库存: {good.inventory} 件</Text>
+                    <Text style={{fontSize: 20, color: '#333', textAlign: 'center'}}>in stock: {good.inventory} 件</Text>
                   </View>
                   <View style={styles.listItem}>
-                    <Text style={{fontSize: 20, color: '#333', textAlign: 'center'}}>销量: {good.soldCount} 件</Text>
+                    <Text style={{fontSize: 20, color: '#333', textAlign: 'center'}}>Sales volume: {good.soldCount} 件</Text>
                   </View>
                 </View>
               </View>

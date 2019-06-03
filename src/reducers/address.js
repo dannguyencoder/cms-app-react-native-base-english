@@ -1,19 +1,19 @@
 import { FETCH_ADDRESSES, FETCH_ONE_ADDRESS, RECEIVE_ONE_ADDRESS, RECEIVE_ADDRESSES, FETCH_ADDRESSES_FAILURE, FETCH_ONE_ADDRESS_FAILURE, POST_ADDRESS, POST_ADDRESS_SUCCESS, POST_ADDRESS_FAILURE } from "../actions/types";
 
 const initialAddress = {
-  isFetchingAddress: false,  // 正在获取地址
+  isFetchingAddress: false,  // Getting address
   address: {},
   fetchOneErrorMessage: "",
-  isFetchingAddresses: false, // 正在获取全部地址
+  isFetchingAddresses: false, // Getting all addresses
   addresses: [],
   fetchAllErrorMessage: "",
-  isPostingAddress: false, // 正在创建地址信息
+  isPostingAddress: false, // Creating address information
   postErrorMessage: ""
 }
 
 export default (state = initialAddress, action = {}) => {
   switch (action.type) {
-    // 获取一条地址信息
+    // Get an address message
     case FETCH_ONE_ADDRESS:
       return Object.assign({}, state, {
         isFetchingAddress: true,
@@ -31,7 +31,7 @@ export default (state = initialAddress, action = {}) => {
         isFetchingAddress: false,
         fetchOneErrorMessage: action.payload
       })
-    // 获取全部地址信息
+    // Get all address information
     case FETCH_ADDRESSES:
       return Object.assign({}, state, {
         isFetchingAddresses: true,

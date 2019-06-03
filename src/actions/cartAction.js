@@ -90,7 +90,7 @@ function getCart(userId) {
       dispatch(receiveCart(cart))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = "服务器睡着了，请稍后再试"
+        const errorMessage = "The server is asleep, please try again later"
         return dispatch(fetchCartFailure(errorMessage))
       }
       if (err.response.status === 404) {
@@ -102,7 +102,7 @@ function getCart(userId) {
 }
 
 /**
- * 根据goodId 获取用户购物车中一件商品的详细信息
+ * Get the details of an item in the user's shopping cart based on goodId
  *
  * @param {any} userId
  * @param {any} token
@@ -117,7 +117,7 @@ function getCartByGoodId(userId, token, goodId) {
       return dispatch(receiveOneCart(res.data.data))
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = "服务器睡着了，请稍后再试"
+        const errorMessage = "The server is asleep, please try again later"
         return dispatch(fetchCartDetailFailure(errorMessage))
       }
       if (err.response.status === 404) {
@@ -136,7 +136,7 @@ function addGoodToCart(userId, token, goodId, count) {
       return dispatch(postSuccess())
     } catch (err) {
       if (err.response === undefined) {
-        const errorMessage = '服务器错误，请稍后再试'
+        const errorMessage = 'Server error, please try again later'
         return dispatch(postFailure(errorMessage))
       }
 

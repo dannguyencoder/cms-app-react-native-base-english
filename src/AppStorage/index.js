@@ -9,7 +9,7 @@ const size = 1000
 
 export default class AppStorage extends React.Component {
   /**
-   * 初始化storage
+   * Initialize storage
    */
   static _getStorage() {
     if (storage == undefined) {
@@ -26,19 +26,19 @@ export default class AppStorage extends React.Component {
 
   static isInit() {
     if (storage == undefined) {
-      throw Error('请先调用初始化函数')
+      throw Error('Please call the initialization function first.')
     }
   }
 
   /**
-   * save method
-   *
-   * @static
-   * @param {any} key 保存的key值
-   * @param {any} object 保存的value
-   * @param {any} expires 有效时间，如果为null, 则为永不过期
-   * @memberof AppStorage
-   */
+    * save method
+    *
+    * @static
+    * @param {any} key saved key value
+    * @param {any} object saved value
+    * @param {any} expires Valid time, if null, never expires
+    * @memberof AppStorage
+    */
   static _save(key, object, expires = defaultExpires) {
     this.isInit()
 
@@ -50,7 +50,7 @@ export default class AppStorage extends React.Component {
   }
 
   /**
-   * 删除单个数据
+   * Delete single data
    *
    * @static
    * @param {any} key
@@ -65,7 +65,7 @@ export default class AppStorage extends React.Component {
   }
 
   /**
-   * 移除所有key-id的数据
+   * Remove all key-id data
    */
   static _clear() {
     this.isInit()
@@ -74,7 +74,7 @@ export default class AppStorage extends React.Component {
   }
 
   /**
-   * 移除单个key下的所有数据
+   * Remove all data under a single key
    *
    * @static
    * @param {any} key
@@ -113,7 +113,7 @@ export default class AppStorage extends React.Component {
   // }
 
   /**
-    查询数据
+   Query data
   */
   static _load(key, callBack) {
     this._load3(key, null, null, callBack);
@@ -125,14 +125,14 @@ export default class AppStorage extends React.Component {
     this.isInit();
     storage.load({
       key: key,
-      // autoSync(默认为true)意味着在没有找到数据或数据过期时自动调用相应的sync方法
+      // autoSync (defaults to true) means that the corresponding sync method is automatically called when no data is found or the data expires.
       autoSync: true,
-      // syncInBackground(默认为true)意味着如果数据过期，
-      // 在调用sync方法的同时先返回已经过期的数据。
-      // 设置为false的话，则始终强制返回sync方法提供的最新数据(当然会需要更多等待时间)。
+      // syncInBackground (default is true) means that if the data expires,
+      // Returns the data that has expired while calling the sync method.
+      // Set to false to always force the latest data provided by the sync method (of course it will take more wait time).
       syncInBackground: true,
 
-      // 你还可以给sync方法传递额外的参数
+      // You can also pass additional parameters to the sync method.
       syncParams: {
         params,
         someFlag: someFlag,
@@ -142,8 +142,8 @@ export default class AppStorage extends React.Component {
       callBack(ret);
       return ret;
     }).catch(err => {
-      //如果没有找到数据且没有sync方法，
-      //或者有其他异常，则在catch中返回
+      //If no data is found and there is no sync method,
+      //Or there are other exceptions, then return in catch
       console.warn(err.message);
       switch (err.name) {
         case 'NotFoundError':

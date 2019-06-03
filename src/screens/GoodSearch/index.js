@@ -90,7 +90,7 @@ export default class extends React.Component {
     if (goods.length === 0 && !inService) {
       return (
         <View style={styles.notFound}>
-          <Text style={{textAlign: 'center'}}>没有找到您想要的</Text>
+          <Text style={{textAlign: 'center'}}>Didn't find what you want</Text>
         </View>
       )
     } else {
@@ -133,17 +133,17 @@ export default class extends React.Component {
                       </Col>
                       <Col>
                         <Text style={styles.descSecond}>
-                          库存: {item.inventory} 件
+                          in stock: {item.inventory} 件
                         </Text>
                       </Col>
                     </Grid>
                     <Grid style={styles.desc}>
                       <Col>
-                        <Text style={styles.descFirst}>规格：{item.spec} </Text>
+                        <Text style={styles.descFirst}>specification：{item.spec} </Text>
                       </Col>
                       <Col>
                         <Text style={styles.descSecond}>
-                          产地: {item.origin}
+                          Place of origin: {item.origin}
                         </Text>
                       </Col>
                     </Grid>

@@ -28,7 +28,7 @@ const Main = TabNavigator({
   Home: {
     screen: Home,
     navigationOptions: ({navigation}) => ({
-      tabBarLabel: '首页',
+      tabBarLabel: 'Home',
       tabBarIcon: ({focused, tintColor}) => (
         <TabBarItem
           focused={focused}
@@ -41,7 +41,7 @@ const Main = TabNavigator({
   Category: {
     screen: Category,
     navigationOptions: ({navigation}) => ({
-      tabBarLabel: '分类',
+      tabBarLabel: 'classification',
       tabBarIcon: ({focused, tintColor}) => (
         <TabBarItem
           focused={focused}
@@ -54,7 +54,7 @@ const Main = TabNavigator({
   Cart: {
     screen: Cart,
     navigationOptions: ({navigation}) => ({
-      tabBarLabel: '购物车',
+      tabBarLabel: 'shopping cart',
       tabBarIcon: ({focused, tintColor}) => (
         <TabBarItem
           focused={focused}
@@ -67,7 +67,7 @@ const Main = TabNavigator({
   Profile: {
     screen: Profile,
     navigationOptions: ({navigation}) => ({
-      tabBarLabel: '我的',
+      tabBarLabel: 'mine',
       tabBarIcon: ({focused, tintColor}) => (
         <TabBarItem
           focused={focused}

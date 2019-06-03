@@ -3,2176 +3,2176 @@
     {
       "citys": [
         {
-          "citysName": "石家庄市"
+          "citysName": "Shijiazhuang"
         },
         {
-          "citysName": "邯郸市"
+          "citysName": "Handan"
         },
         {
-          "citysName": "唐山市"
+          "citysName": "Tangshan"
         },
         {
-          "citysName": "保定市"
+          "citysName": "Baoding"
         },
         {
-          "citysName": "秦皇岛市"
+          "citysName": "Qinhuangdao"
         },
         {
-          "citysName": "邢台市"
+          "citysName": "Xingtai City"
         },
         {
-          "citysName": "张家口市"
+          "citysName": "Zhangjiakou City"
         },
         {
-          "citysName": "承德市"
+          "citysName": "Chengde"
         },
         {
-          "citysName": "沧州市"
+          "citysName": "Cangzhou City"
         },
         {
-          "citysName": "廊坊市"
+          "citysName": "Langfang"
         },
         {
-          "citysName": "衡水市"
+          "citysName": "Hengshui City"
         },
         {
-          "citysName": "辛集市"
+          "citysName": "Xinji"
         },
         {
-          "citysName": "晋州市"
+          "citysName": "Jinju"
         },
         {
-          "citysName": "新乐市"
+          "citysName": "Music City"
         },
         {
-          "citysName": "遵化市"
+          "citysName": "Zunhua"
         },
         {
-          "citysName": "迁安市"
+          "citysName": "Qian'an City"
         },
         {
-          "citysName": "霸州市"
+          "citysName": "Bazhou"
         },
         {
-          "citysName": "三河市"
+          "citysName": "Sanhe"
         },
         {
-          "citysName": "定州市"
+          "citysName": "Dingzhou"
         },
         {
-          "citysName": "涿州市"
+          "citysName": "Zhuozhou City"
         },
         {
-          "citysName": "安国市"
+          "citysName": "Yasukuni City"
         },
         {
-          "citysName": "高碑店市"
+          "citysName": "Gaobeidian City"
         },
         {
-          "citysName": "泊头市"
+          "citysName": "Botou"
         },
         {
-          "citysName": "任丘市"
+          "citysName": "Renqiu"
         },
         {
-          "citysName": "黄骅市"
+          "citysName": "Huanghua"
         },
         {
-          "citysName": "河间市"
+          "citysName": "Hejian"
         },
         {
-          "citysName": "冀州市"
+          "citysName": "Jizhou City"
         },
         {
-          "citysName": "深州市"
+          "citysName": "Shenzhen City"
         },
         {
-          "citysName": "南宫市"
+          "citysName": "Nangong"
         },
         {
-          "citysName": "沙河市"
+          "citysName": "River City"
         },
         {
-          "citysName": "武安市"
+          "citysName": "Wuan"
         }
       ],
-      "provinceName": "河北省"
+      "provinceName": "Hebei"
     },
     {
       "citys": [
         {
-          "citysName": "太原市"
+          "citysName": "Taiyuan"
         },
         {
-          "citysName": "大同市"
+          "citysName": "Datong"
         },
         {
-          "citysName": "朔州市"
+          "citysName": "Shuozhou"
         },
         {
-          "citysName": "阳泉市"
+          "citysName": "Yangquan"
         },
         {
-          "citysName": "长治市"
+          "citysName": "Changzhi"
         },
         {
-          "citysName": "晋城市"
+          "citysName": "Jincheng"
         },
         {
-          "citysName": "忻州市"
+          "citysName": "Xinzhou"
         },
         {
-          "citysName": "吕梁市"
+          "citysName": "Luliang City"
         },
         {
-          "citysName": "晋中市"
+          "citysName": "Jinzhong City"
         },
         {
-          "citysName": "临汾市"
+          "citysName": "Linfen"
         },
         {
-          "citysName": "运城市"
+          "citysName": "Yuncheng"
         },
         {
-          "citysName": "古交市"
+          "citysName": "Gujiao"
         },
         {
-          "citysName": "潞城市"
+          "citysName": "Lucheng"
         },
         {
-          "citysName": "高平市"
+          "citysName": "Gaoping"
         },
         {
-          "citysName": "原平市"
+          "citysName": "Yuanping"
         },
         {
-          "citysName": "孝义市"
+          "citysName": "Xiaoyi"
         },
         {
-          "citysName": "汾阳市"
+          "citysName": "Fenyang"
         },
         {
-          "citysName": "介休市"
+          "citysName": "Jiexiu"
         },
         {
-          "citysName": "侯马市"
+          "citysName": "Houma"
         },
         {
-          "citysName": "霍州市"
+          "citysName": "Huozhou"
         },
         {
-          "citysName": "永济市"
+          "citysName": "Yongji"
         },
         {
-          "citysName": "河津市"
+          "citysName": "Hejin City"
         }
       ],
-      "provinceName": "山西省"
+      "provinceName": "Shanxi"
     },
     {
       "citys": [
         {
-          "citysName": "呼和浩特市"
+          "citysName": "Hohhot"
         },
         {
-          "citysName": "包头市"
+          "citysName": "Baotou"
         },
         {
-          "citysName": "乌海市"
+          "citysName": "Wuhai"
         },
         {
-          "citysName": "赤峰市"
+          "citysName": "Chifeng"
         },
         {
-          "citysName": "呼伦贝尔市"
+          "citysName": "Hulunbeir"
         },
         {
-          "citysName": "通辽市"
+          "citysName": "Tongliao"
         },
         {
-          "citysName": "乌兰察布市"
+          "citysName": "Wulanchabu"
         },
         {
-          "citysName": "鄂尔多斯市"
+          "citysName": "Ordos City"
         },
         {
-          "citysName": "巴彦淖尔市"
+          "citysName": "Bayannaoer"
         },
         {
-          "citysName": "满洲里市"
+          "citysName": "Manzhouli City"
         },
         {
-          "citysName": "扎兰屯市"
+          "citysName": "Zhalantun"
         },
         {
-          "citysName": "牙克石市"
+          "citysName": "Yakeshi"
         },
         {
-          "citysName": "根河市"
+          "citysName": "Root River City"
         },
         {
-          "citysName": "额尔古纳市"
+          "citysName": "Ergun City"
         },
         {
-          "citysName": "乌兰浩特市"
+          "citysName": "Ulanhot"
         },
         {
-          "citysName": "阿尔山市"
+          "citysName": "Aershan"
         },
         {
-          "citysName": "霍林郭勒市"
+          "citysName": "Holingol"
         },
         {
-          "citysName": "锡林浩特市"
+          "citysName": "Xilinhot City"
         },
         {
-          "citysName": "二连浩特市"
+          "citysName": "Erlianhaote"
         },
         {
-          "citysName": "丰镇市"
+          "citysName": "Fengzhen"
         }
       ],
-      "provinceName": "内蒙古自治区"
+      "provinceName": "Inner Mongolia Autonomous Region"
     },
     {
       "citys": [
         {
-          "citysName": "沈阳市"
+          "citysName": "Shenyang"
         },
         {
-          "citysName": "大连市"
+          "citysName": "Dalian"
         },
         {
-          "citysName": "朝阳市"
+          "citysName": "Chaoyang"
         },
         {
-          "citysName": "阜新市"
+          "citysName": "Fuxin"
         },
         {
-          "citysName": "铁岭市"
+          "citysName": "Tieling"
         },
         {
-          "citysName": "抚顺市"
+          "citysName": "Fushun"
         },
         {
-          "citysName": "本溪市"
+          "citysName": "Benxi"
         },
         {
-          "citysName": "辽阳市"
+          "citysName": "Liaoyang"
         },
         {
-          "citysName": "鞍山市"
+          "citysName": "Anshan"
         },
         {
-          "citysName": "丹东市"
+          "citysName": "Dandong"
         },
         {
-          "citysName": "营口市"
+          "citysName": "Yingkou"
         },
         {
-          "citysName": "盘锦市"
+          "citysName": "Panjin"
         },
         {
-          "citysName": "锦州市"
+          "citysName": "Jinzhou"
         },
         {
-          "citysName": "葫芦岛市"
+          "citysName": "Huludao"
         },
         {
-          "citysName": "新民市"
+          "citysName": "Xinmin City"
         },
         {
-          "citysName": "瓦房店市"
+          "citysName": "Wafangdian City"
         },
         {
-          "citysName": "庄河市"
+          "citysName": "Zhuanghe City"
         },
         {
-          "citysName": "北票市"
+          "citysName": "Beipiao"
         },
         {
-          "citysName": "凌源市"
+          "citysName": "Lingyuan City"
         },
         {
-          "citysName": "调兵山市"
+          "citysName": "Diaobingshan"
         },
         {
-          "citysName": "开原市"
+          "citysName": "Kaiyuan"
         },
         {
-          "citysName": "灯塔市"
+          "citysName": "City Lighthouse"
         },
         {
-          "citysName": "海城市"
+          "citysName": "Sea City"
         },
         {
-          "citysName": "凤城市"
+          "citysName": "Phoenix City"
         },
         {
-          "citysName": "东港市"
+          "citysName": "Donggang"
         },
         {
-          "citysName": "大石桥市"
+          "citysName": "Dashiqiao"
         },
         {
-          "citysName": "盖州市"
+          "citysName": "Gaizhou"
         },
         {
-          "citysName": "凌海市"
+          "citysName": "Linghai"
         },
         {
-          "citysName": "北镇市"
+          "citysName": "town in the North."
         },
         {
-          "citysName": "兴城市"
+          "citysName": "Xingcheng"
         }
       ],
-      "provinceName": "辽宁省"
+      "provinceName": "Liaoning"
     },
     {
       "citys": [
         {
-          "citysName": "长春市"
+          "citysName": "Changchun"
         },
         {
-          "citysName": "吉林市"
+          "citysName": "Jilin"
         },
         {
-          "citysName": "白城市"
+          "citysName": "White City."
         },
         {
-          "citysName": "松原市"
+          "citysName": "Songyuan"
         },
         {
-          "citysName": "四平市"
+          "citysName": "Siping"
         },
         {
-          "citysName": "辽源市"
+          "citysName": "Liaoyuan City"
         },
         {
-          "citysName": "通化市"
+          "citysName": "Tonghua"
         },
         {
-          "citysName": "白山市"
+          "citysName": "Baishan"
         },
         {
-          "citysName": "德惠市"
+          "citysName": "Dehui City"
         },
         {
-          "citysName": "榆树市"
+          "citysName": "Yushu"
         },
         {
-          "citysName": "磐石市"
+          "citysName": "Panshi"
         },
         {
-          "citysName": "蛟河市"
+          "citysName": "Jiaohe"
         },
         {
-          "citysName": "桦甸市"
+          "citysName": "Huadian"
         },
         {
-          "citysName": "舒兰市"
+          "citysName": "Shulan"
         },
         {
-          "citysName": "洮南市"
+          "citysName": "Taonan"
         },
         {
-          "citysName": "大安市"
+          "citysName": "Da'an City"
         },
         {
-          "citysName": "双辽市"
+          "citysName": "Shuangliao"
         },
         {
-          "citysName": "公主岭市"
+          "citysName": "Gongzhuling"
         },
         {
-          "citysName": "梅河口市"
+          "citysName": "Meihekoushi"
         },
         {
-          "citysName": "集安市"
+          "citysName": "Ji'an"
         },
         {
-          "citysName": "临江市"
+          "citysName": "Linjiang"
         },
         {
-          "citysName": "延吉市"
+          "citysName": "Yanji"
         },
         {
-          "citysName": "图们市"
+          "citysName": "Tumen"
         },
         {
-          "citysName": "敦化市"
+          "citysName": "Dunhua"
         },
         {
-          "citysName": "珲春市"
+          "citysName": "Hunchun"
         },
         {
-          "citysName": "龙井市"
+          "citysName": "Longjing"
         },
         {
-          "citysName": "和龙市"
+          "citysName": "Dragon City"
         },
         {
-          "citysName": "扶余市"
+          "citysName": "Fuyu City"
         }
       ],
-      "provinceName": "吉林省"
+      "provinceName": "Jilin"
     },
     {
       "citys": [
         {
-          "citysName": "哈尔滨市"
+          "citysName": "Harbin"
         },
         {
-          "citysName": "齐齐哈尔市"
+          "citysName": "Qiqihar"
         },
         {
-          "citysName": "黑河市"
+          "citysName": "Heihe"
         },
         {
-          "citysName": "大庆市"
+          "citysName": "Daqing"
         },
         {
-          "citysName": "伊春市"
+          "citysName": "Yichun"
         },
         {
-          "citysName": "鹤岗市"
+          "citysName": "Hegang"
         },
         {
-          "citysName": "佳木斯市"
+          "citysName": "Jiamusi"
         },
         {
-          "citysName": "双鸭山市"
+          "citysName": "Shuangyashan"
         },
         {
-          "citysName": "七台河市"
+          "citysName": "Qitaihe"
         },
         {
-          "citysName": "鸡西市"
+          "citysName": "Jixi"
         },
         {
-          "citysName": "牡丹江市"
+          "citysName": "Mudanjiang"
         },
         {
-          "citysName": "绥化市"
+          "citysName": "Suihua"
         },
         {
-          "citysName": "尚志市"
+          "citysName": "Shangzhi"
         },
         {
-          "citysName": "五常市"
+          "citysName": "Wuchang City"
         },
         {
-          "citysName": "讷河市"
+          "citysName": "Nehe"
         },
         {
-          "citysName": "北安市"
+          "citysName": "Beian"
         },
         {
-          "citysName": "五大连池市"
+          "citysName": "Wudalianchi"
         },
         {
-          "citysName": "铁力市"
+          "citysName": "Iron City"
         },
         {
-          "citysName": "同江市"
+          "citysName": "Tongjiang City"
         },
         {
-          "citysName": "富锦市"
+          "citysName": "Fujin"
         },
         {
-          "citysName": "虎林市"
+          "citysName": "Hulin"
         },
         {
-          "citysName": "密山市"
+          "citysName": "Mishan"
         },
         {
-          "citysName": "绥芬河市"
+          "citysName": "Suifenhe"
         },
         {
-          "citysName": "海林市"
+          "citysName": "Hailin"
         },
         {
-          "citysName": "宁安市"
+          "citysName": "Ning'an"
         },
         {
-          "citysName": "安达市"
+          "citysName": "Anda"
         },
         {
-          "citysName": "肇东市"
+          "citysName": "Zhaodong"
         },
         {
-          "citysName": "海伦市"
+          "citysName": "Hailun"
         },
         {
-          "citysName": "穆棱市"
+          "citysName": "Muling"
         },
         {
-          "citysName": "东宁市"
+          "citysName": "eastern city of Nanjing"
         },
         {
-          "citysName": "抚远市"
+          "citysName": "Fuyuan City"
         }
       ],
-      "provinceName": "黑龙江省"
+      "provinceName": "Heilongjiang Province"
     },
     {
       "citys": [
         {
-          "citysName": "南京市"
+          "citysName": "Nanjing"
         },
         {
-          "citysName": "徐州市"
+          "citysName": "Xuzhou"
         },
         {
-          "citysName": "连云港市"
+          "citysName": "Lianyungang"
         },
         {
-          "citysName": "宿迁市"
+          "citysName": "Suqian City"
         },
         {
-          "citysName": "淮安市"
+          "citysName": "Huai'an"
         },
         {
-          "citysName": "盐城市"
+          "citysName": "Yancheng"
         },
         {
-          "citysName": "扬州市"
+          "citysName": "Yangzhou"
         },
         {
-          "citysName": "泰州市"
+          "citysName": "Taizhou"
         },
         {
-          "citysName": "南通市"
+          "citysName": "Nantong"
         },
         {
-          "citysName": "镇江市"
+          "citysName": "Zhenjiang"
         },
         {
-          "citysName": "常州市"
+          "citysName": "Changzhou"
         },
         {
-          "citysName": "无锡市"
+          "citysName": "Wuxi"
         },
         {
-          "citysName": "苏州市"
+          "citysName": "Suzhou"
         },
         {
-          "citysName": "常熟市"
+          "citysName": "Changshu"
         },
         {
-          "citysName": "张家港市"
+          "citysName": "Zhangjiagang"
         },
         {
-          "citysName": "太仓市"
+          "citysName": "Taicang"
         },
         {
-          "citysName": "昆山市"
+          "citysName": "Kunshan"
         },
         {
-          "citysName": "江阴市"
+          "citysName": "Jiangyin"
         },
         {
-          "citysName": "宜兴市"
+          "citysName": "Yixing"
         },
         {
-          "citysName": "溧阳市"
+          "citysName": "Liyang"
         },
         {
-          "citysName": "扬中市"
+          "citysName": "Yangzhong"
         },
         {
-          "citysName": "句容市"
+          "citysName": "Jurong"
         },
         {
-          "citysName": "丹阳市"
+          "citysName": "Danyang"
         },
         {
-          "citysName": "如皋市"
+          "citysName": "Rugao"
         },
         {
-          "citysName": "海门市"
+          "citysName": "Haimen"
         },
         {
-          "citysName": "启东市"
+          "citysName": "Qidong"
         },
         {
-          "citysName": "高邮市"
+          "citysName": "Gaoyou"
         },
         {
-          "citysName": "仪征市"
+          "citysName": "Yizheng"
         },
         {
-          "citysName": "兴化市"
+          "citysName": "Xinghua"
         },
         {
-          "citysName": "泰兴市"
+          "citysName": "Taixing"
         },
         {
-          "citysName": "靖江市"
+          "citysName": "Jingjiang"
         },
         {
-          "citysName": "东台市"
+          "citysName": "Dongtai"
         },
         {
-          "citysName": "邳州市"
+          "citysName": "Pizhou"
         },
         {
-          "citysName": "新沂市"
+          "citysName": "Xinyi"
         }
       ],
-      "provinceName": "江苏省"
+      "provinceName": "Jiangsu Province"
     },
     {
       "citys": [
         {
-          "citysName": "杭州市"
+          "citysName": "Hangzhou"
         },
         {
-          "citysName": "宁波市"
+          "citysName": "Ningbo"
         },
         {
-          "citysName": "湖州市"
+          "citysName": "Huzhou City"
         },
         {
-          "citysName": "嘉兴市"
+          "citysName": "Jiaxing"
         },
         {
-          "citysName": "舟山市"
+          "citysName": "Zhoushan"
         },
         {
-          "citysName": "绍兴市"
+          "citysName": "Shaoxing"
         },
         {
-          "citysName": "衢州市"
+          "citysName": "Quzhou"
         },
         {
-          "citysName": "金华市"
+          "citysName": "Jinhua"
         },
         {
-          "citysName": "台州市"
+          "citysName": "Taizhou"
         },
         {
-          "citysName": "温州市"
+          "citysName": "Wenzhou"
         },
         {
-          "citysName": "丽水市"
+          "citysName": "Lishui"
         },
         {
-          "citysName": "临安市"
+          "citysName": "Lin'an City"
         },
         {
-          "citysName": "建德市"
+          "citysName": "Jiande"
         },
         {
-          "citysName": "慈溪市"
+          "citysName": "Cixi"
         },
         {
-          "citysName": "余姚市"
+          "citysName": "Yuyao"
         },
         {
-          "citysName": "平湖市"
+          "citysName": "Pinghu"
         },
         {
-          "citysName": "海宁市"
+          "citysName": "Haining"
         },
         {
-          "citysName": "桐乡市"
+          "citysName": "Tongxiang"
         },
         {
-          "citysName": "诸暨市"
+          "citysName": "Zhuji"
         },
         {
-          "citysName": "嵊州市"
+          "citysName": "Shengzhou"
         },
         {
-          "citysName": "江山市"
+          "citysName": "Jiangshan"
         },
         {
-          "citysName": "兰溪市"
+          "citysName": "Lanxi"
         },
         {
-          "citysName": "永康市"
+          "citysName": "Yongkang"
         },
         {
-          "citysName": "义乌市"
+          "citysName": "Yiwu"
         },
         {
-          "citysName": "东阳市"
+          "citysName": "Dongyang"
         },
         {
-          "citysName": "临海市"
+          "citysName": "Linhai"
         },
         {
-          "citysName": "温岭市"
+          "citysName": "Wenling"
         },
         {
-          "citysName": "瑞安市"
+          "citysName": "Ruian"
         },
         {
-          "citysName": "乐清市"
+          "citysName": "Yueqing"
         },
         {
-          "citysName": "龙泉市"
+          "citysName": "Longquan"
         }
       ],
-      "provinceName": "浙江省"
+      "provinceName": "Zhejiang"
     },
     {
       "citys": [
         {
-          "citysName": "合肥市"
+          "citysName": "Hefei"
         },
         {
-          "citysName": "芜湖市"
+          "citysName": "Wuhu"
         },
         {
-          "citysName": "蚌埠市"
+          "citysName": "Bengbu"
         },
         {
-          "citysName": "淮南市"
+          "citysName": "Huainan"
         },
         {
-          "citysName": "马鞍山市"
+          "citysName": "Ma'anshan City"
         },
         {
-          "citysName": "淮北市"
+          "citysName": "Huaibei City"
         },
         {
-          "citysName": "铜陵市"
+          "citysName": "Tongling"
         },
         {
-          "citysName": "安庆市"
+          "citysName": "Anqing City"
         },
         {
-          "citysName": "黄山市"
+          "citysName": "Huangshan"
         },
         {
-          "citysName": "滁州市"
+          "citysName": "Chuzhou City"
         },
         {
-          "citysName": "阜阳市"
+          "citysName": "Fuyang City"
         },
         {
-          "citysName": "宿州市"
+          "citysName": "Suzhou City"
         },
         {
-          "citysName": "六安市"
+          "citysName": "Lu'an"
         },
         {
-          "citysName": "亳州市"
+          "citysName": "Bozhou"
         },
         {
-          "citysName": "池州市"
+          "citysName": "Chizhou"
         },
         {
-          "citysName": "宣城市"
+          "citysName": "Vision City"
         },
         {
-          "citysName": "巢湖市"
+          "citysName": "Chaohu"
         },
         {
-          "citysName": "桐城市"
+          "citysName": "Tongcheng"
         },
         {
-          "citysName": "天长市"
+          "citysName": "Tianchang"
         },
         {
-          "citysName": "明光市"
+          "citysName": "Mingguang City"
         },
         {
-          "citysName": "界首市"
+          "citysName": "Jieshou"
         },
         {
-          "citysName": "宁国市"
+          "citysName": "Ningguo"
         }
       ],
-      "provinceName": "安徽省"
+      "provinceName": "Anhui"
     },
     {
       "citys": [
         {
-          "citysName": "厦门市"
+          "citysName": "Xiamen"
         },
         {
-          "citysName": "福州市"
+          "citysName": "Fuzhou"
         },
         {
-          "citysName": "南平市"
+          "citysName": "Nanping"
         },
         {
-          "citysName": "三明市"
+          "citysName": "Sanming"
         },
         {
-          "citysName": "莆田市"
+          "citysName": "Putian"
         },
         {
-          "citysName": "泉州市"
+          "citysName": "Quanzhou"
         },
         {
-          "citysName": "漳州市"
+          "citysName": "Zhangzhou"
         },
         {
-          "citysName": "龙岩市"
+          "citysName": "Longyan"
         },
         {
-          "citysName": "宁德市"
+          "citysName": "Ningde"
         },
         {
-          "citysName": "福清市"
+          "citysName": "Fuqing"
         },
         {
-          "citysName": "长乐市"
+          "citysName": "Changle"
         },
         {
-          "citysName": "邵武市"
+          "citysName": "Shaowu"
         },
         {
-          "citysName": "武夷山市"
+          "citysName": "Wuyishan"
         },
         {
-          "citysName": "建瓯市"
+          "citysName": "Jian'ou"
         },
         {
-          "citysName": "永安市"
+          "citysName": "Wing City"
         },
         {
-          "citysName": "石狮市"
+          "citysName": "Shishi"
         },
         {
-          "citysName": "晋江市"
+          "citysName": "Jinjiang"
         },
         {
-          "citysName": "南安市"
+          "citysName": "Nanan"
         },
         {
-          "citysName": "龙海市"
+          "citysName": "Longhai"
         },
         {
-          "citysName": "漳平市"
+          "citysName": "Zhangping"
         },
         {
-          "citysName": "福安市"
+          "citysName": "Fuan"
         },
         {
-          "citysName": "福鼎市"
+          "citysName": "Fuding"
         }
       ],
-      "provinceName": "福建省"
+      "provinceName": "Fujian"
     },
     {
       "citys": [
         {
-          "citysName": "南昌市"
+          "citysName": "Nanchang"
         },
         {
-          "citysName": "九江市"
+          "citysName": "Jiujiang"
         },
         {
-          "citysName": "景德镇市"
+          "citysName": "Jingdezhen City"
         },
         {
-          "citysName": "鹰潭市"
+          "citysName": "Yingtan"
         },
         {
-          "citysName": "新余市"
+          "citysName": "Xinyu City"
         },
         {
-          "citysName": "萍乡市"
+          "citysName": "Pingxiang City"
         },
         {
-          "citysName": "赣州市"
+          "citysName": "Ganzhou"
         },
         {
-          "citysName": "上饶市"
+          "citysName": "Shangrao City"
         },
         {
-          "citysName": "抚州市"
+          "citysName": "Fuzhou City"
         },
         {
-          "citysName": "宜春市"
+          "citysName": "Yichun"
         },
         {
-          "citysName": "吉安市"
+          "citysName": "Ji'an"
         },
         {
-          "citysName": "瑞昌市"
+          "citysName": "Ruichang"
         },
         {
-          "citysName": "共青城市"
+          "citysName": "Gongqingcheng"
         },
         {
-          "citysName": "乐平市"
+          "citysName": "Leping City"
         },
         {
-          "citysName": "瑞金市"
+          "citysName": "Ruijin"
         },
         {
-          "citysName": "德兴市"
+          "citysName": "Dexing City"
         },
         {
-          "citysName": "丰城市"
+          "citysName": "Feng City"
         },
         {
-          "citysName": "樟树市"
+          "citysName": "Zhangshu City"
         },
         {
-          "citysName": "高安市"
+          "citysName": "GAOAN"
         },
         {
-          "citysName": "井冈山市"
+          "citysName": "Jinggangshan"
         },
         {
-          "citysName": "贵溪市"
+          "citysName": "Guixi City"
         }
       ],
-      "provinceName": "江西省"
+      "provinceName": "Jiangxi"
     },
     {
       "citys": [
         {
-          "citysName": "济南市"
+          "citysName": "Jinan"
         },
         {
-          "citysName": "青岛市"
+          "citysName": "Qingdao"
         },
         {
-          "citysName": "聊城市"
+          "citysName": "Liaocheng"
         },
         {
-          "citysName": "德州市"
+          "citysName": "Dezhou"
         },
         {
-          "citysName": "东营市"
+          "citysName": "Dongying City"
         },
         {
-          "citysName": "淄博市"
+          "citysName": "Zibo City"
         },
         {
-          "citysName": "潍坊市"
+          "citysName": "Weifang"
         },
         {
-          "citysName": "烟台市"
+          "citysName": "Yantai"
         },
         {
-          "citysName": "威海市"
+          "citysName": "Weihai"
         },
         {
-          "citysName": "日照市"
+          "citysName": "Sunshine City"
         },
         {
-          "citysName": "临沂市"
+          "citysName": "Linyi"
         },
         {
-          "citysName": "枣庄市"
+          "citysName": "Zaozhuang"
         },
         {
-          "citysName": "济宁市"
+          "citysName": "Jining"
         },
         {
-          "citysName": "泰安市"
+          "citysName": "Taian City"
         },
         {
-          "citysName": "莱芜市"
+          "citysName": "Laiwu"
         },
         {
-          "citysName": "滨州市"
+          "citysName": "Binzhou"
         },
         {
-          "citysName": "菏泽市"
+          "citysName": "Heze City"
         },
         {
-          "citysName": "胶州市"
+          "citysName": "Jiaozhou"
         },
         {
-          "citysName": "即墨市"
+          "citysName": "Jimo"
         },
         {
-          "citysName": "平度市"
+          "citysName": "Pingdu"
         },
         {
-          "citysName": "莱西市"
+          "citysName": "Lacey City"
         },
         {
-          "citysName": "临清市"
+          "citysName": "Linqing"
         },
         {
-          "citysName": "乐陵市"
+          "citysName": "Leling"
         },
         {
-          "citysName": "禹城市"
+          "citysName": "Yucheng"
         },
         {
-          "citysName": "安丘市"
+          "citysName": "Anqiu"
         },
         {
-          "citysName": "昌邑市"
+          "citysName": "Changyi"
         },
         {
-          "citysName": "高密市"
+          "citysName": "Gaomi"
         },
         {
-          "citysName": "青州市"
+          "citysName": "Green City"
         },
         {
-          "citysName": "诸城市"
+          "citysName": "Zhucheng"
         },
         {
-          "citysName": "寿光市"
+          "citysName": "Shouguang"
         },
         {
-          "citysName": "栖霞市"
+          "citysName": "Qixia"
         },
         {
-          "citysName": "海阳市"
+          "citysName": "Haiyang"
         },
         {
-          "citysName": "龙口市"
+          "citysName": "Longkou"
         },
         {
-          "citysName": "莱阳市"
+          "citysName": "Laiyang"
         },
         {
-          "citysName": "莱州市"
+          "citysName": "Laizhou"
         },
         {
-          "citysName": "蓬莱市"
+          "citysName": "Penglai"
         },
         {
-          "citysName": "招远市"
+          "citysName": "Zhaoyuan"
         },
         {
-          "citysName": "荣成市"
+          "citysName": "Rongcheng"
         },
         {
-          "citysName": "乳山市"
+          "citysName": "Rushan City"
         },
         {
-          "citysName": "滕州市"
+          "citysName": "Tengzhou"
         },
         {
-          "citysName": "曲阜市"
+          "citysName": "Qufu"
         },
         {
-          "citysName": "邹城市"
+          "citysName": "Zoucheng"
         },
         {
-          "citysName": "新泰市"
+          "citysName": "Xintai"
         },
         {
-          "citysName": "肥城市"
+          "citysName": "fat city"
         }
       ],
-      "provinceName": "山东省"
+      "provinceName": "Shandong Province"
     },
     {
       "citys": [
         {
-          "citysName": "郑州市"
+          "citysName": "Zhengzhou City"
         },
         {
-          "citysName": "开封市"
+          "citysName": "Kaifeng"
         },
         {
-          "citysName": "洛阳市"
+          "citysName": "Luoyang"
         },
         {
-          "citysName": "平顶山市"
+          "citysName": "Pingdingshan"
         },
         {
-          "citysName": "安阳市"
+          "citysName": "Anyang"
         },
         {
-          "citysName": "鹤壁市"
+          "citysName": "Hebi"
         },
         {
-          "citysName": "新乡市"
+          "citysName": "Xinxiang"
         },
         {
-          "citysName": "焦作市"
+          "citysName": "Jiaozuo"
         },
         {
-          "citysName": "濮阳市"
+          "citysName": "Puyang City"
         },
         {
-          "citysName": "许昌市"
+          "citysName": "Xuchang"
         },
         {
-          "citysName": "漯河市"
+          "citysName": "Luohe"
         },
         {
-          "citysName": "三门峡市"
+          "citysName": "Sanmenxia"
         },
         {
-          "citysName": "南阳市"
+          "citysName": "Nanyang City"
         },
         {
-          "citysName": "商丘市"
+          "citysName": "Shangqiu"
         },
         {
-          "citysName": "周口市"
+          "citysName": "Zhoukou"
         },
         {
-          "citysName": "驻马店市"
+          "citysName": "Zhumadian"
         },
         {
-          "citysName": "信阳市"
+          "citysName": "Xinyang City"
         },
         {
-          "citysName": "荥阳市"
+          "citysName": "Xingyang"
         },
         {
-          "citysName": "新郑市"
+          "citysName": "Xinzheng"
         },
         {
-          "citysName": "登封市"
+          "citysName": "Dengfeng City"
         },
         {
-          "citysName": "新密市"
+          "citysName": "new city"
         },
         {
-          "citysName": "偃师市"
+          "citysName": "Yanshi"
         },
         {
-          "citysName": "孟州市"
+          "citysName": "Mengzhou"
         },
         {
-          "citysName": "沁阳市"
+          "citysName": "Qinyang"
         },
         {
-          "citysName": "卫辉市"
+          "citysName": "Hui City"
         },
         {
-          "citysName": "辉县市"
+          "citysName": "Huixian"
         },
         {
-          "citysName": "林州市"
+          "citysName": "Forest City"
         },
         {
-          "citysName": "禹州市"
+          "citysName": "Yuzhou City"
         },
         {
-          "citysName": "长葛市"
+          "citysName": "Changge"
         },
         {
-          "citysName": "舞钢市"
+          "citysName": "Wugang"
         },
         {
-          "citysName": "义马市"
+          "citysName": "Yima"
         },
         {
-          "citysName": "灵宝市"
+          "citysName": "Lingbao"
         },
         {
-          "citysName": "项城市"
+          "citysName": "City of"
         },
         {
-          "citysName": "巩义市"
+          "citysName": "Gongyi City"
         },
         {
-          "citysName": "邓州市"
+          "citysName": "Dengzhou"
         },
         {
-          "citysName": "永城市"
+          "citysName": "Wing City"
         },
         {
-          "citysName": "汝州市"
+          "citysName": "Ruzhou"
         },
         {
-          "citysName": "济源市"
+          "citysName": "Jiyuan"
         }
       ],
-      "provinceName": "河南省"
+      "provinceName": "Henan"
     },
     {
       "citys": [
         {
-          "citysName": "武汉市"
+          "citysName": "Wuhan"
         },
         {
-          "citysName": "十堰市"
+          "citysName": "Shiyan"
         },
         {
-          "citysName": "襄阳市"
+          "citysName": "Xiangyang"
         },
         {
-          "citysName": "荆门市"
+          "citysName": "Jingmen"
         },
         {
-          "citysName": "孝感市"
+          "citysName": "Xiaogan"
         },
         {
-          "citysName": "黄冈市"
+          "citysName": "Huanggang City"
         },
         {
-          "citysName": "鄂州市"
+          "citysName": "Ezhou"
         },
         {
-          "citysName": "黄石市"
+          "citysName": "Huangshi"
         },
         {
-          "citysName": "咸宁市"
+          "citysName": "Xianning"
         },
         {
-          "citysName": "荆州市"
+          "citysName": "Jingzhou"
         },
         {
-          "citysName": "宜昌市"
+          "citysName": "Yichang City"
         },
         {
-          "citysName": "随州市"
+          "citysName": "Suizhou"
         },
         {
-          "citysName": "丹江口市"
+          "citysName": "Danjiangkou City"
         },
         {
-          "citysName": "老河口市"
+          "citysName": "Laohekou"
         },
         {
-          "citysName": "枣阳市"
+          "citysName": "Zaoyang"
         },
         {
-          "citysName": "宜城市"
+          "citysName": "Yicheng"
         },
         {
-          "citysName": "钟祥市"
+          "citysName": "Zhongxiang"
         },
         {
-          "citysName": "汉川市"
+          "citysName": "Hanchuan"
         },
         {
-          "citysName": "应城市"
+          "citysName": "Should the city"
         },
         {
-          "citysName": "安陆市"
+          "citysName": "Anlu"
         },
         {
-          "citysName": "广水市"
+          "citysName": "City water"
         },
         {
-          "citysName": "麻城市"
+          "citysName": "Ma City"
         },
         {
-          "citysName": "武穴市"
+          "citysName": "Wuxue"
         },
         {
-          "citysName": "大冶市"
+          "citysName": "Daye"
         },
         {
-          "citysName": "赤壁市"
+          "citysName": "Chibi"
         },
         {
-          "citysName": "石首市"
+          "citysName": "shishou"
         },
         {
-          "citysName": "洪湖市"
+          "citysName": "Honghu"
         },
         {
-          "citysName": "松滋市"
+          "citysName": "Songzi"
         },
         {
-          "citysName": "宜都市"
+          "citysName": "Yidu"
         },
         {
-          "citysName": "枝江市"
+          "citysName": "Zhijiang"
         },
         {
-          "citysName": "当阳市"
+          "citysName": "Dangyang"
         },
         {
-          "citysName": "恩施市"
+          "citysName": "Enshi"
         },
         {
-          "citysName": "利川市"
+          "citysName": "Icheon City"
         },
         {
-          "citysName": "仙桃市"
+          "citysName": "Bristol City"
         },
         {
-          "citysName": "天门市"
+          "citysName": "Tianmen"
         },
         {
-          "citysName": "潜江市"
+          "citysName": "Qianjiang"
         }
       ],
-      "provinceName": "湖北省"
+      "provinceName": "Hubei"
     },
     {
       "citys": [
         {
-          "citysName": "长沙市"
+          "citysName": "Changsha"
         },
         {
-          "citysName": "衡阳市"
+          "citysName": "Hengyang"
         },
         {
-          "citysName": "张家界市"
+          "citysName": "Zhangjiajie"
         },
         {
-          "citysName": "常德市"
+          "citysName": "Changde City"
         },
         {
-          "citysName": "益阳市"
+          "citysName": "Yiyang City"
         },
         {
-          "citysName": "岳阳市"
+          "citysName": "Yueyang"
         },
         {
-          "citysName": "株洲市"
+          "citysName": "Zhuzhou"
         },
         {
-          "citysName": "湘潭市"
+          "citysName": "Xiangtan"
         },
         {
-          "citysName": "郴州市"
+          "citysName": "Chenzhou"
         },
         {
-          "citysName": "永州市"
+          "citysName": "Yongzhou"
         },
         {
-          "citysName": "邵阳市"
+          "citysName": "Shaoyang"
         },
         {
-          "citysName": "怀化市"
+          "citysName": "Huaihua"
         },
         {
-          "citysName": "娄底市"
+          "citysName": "Loudi"
         },
         {
-          "citysName": "耒阳市"
+          "citysName": "Leiyang"
         },
         {
-          "citysName": "常宁市"
+          "citysName": "Changning"
         },
         {
-          "citysName": "浏阳市"
+          "citysName": "Liuyang"
         },
         {
-          "citysName": "津市市"
+          "citysName": "Tsu City"
         },
         {
-          "citysName": "沅江市"
+          "citysName": "Yuanjiang City"
         },
         {
-          "citysName": "汨罗市"
+          "citysName": "Miluo"
         },
         {
-          "citysName": "临湘市"
+          "citysName": "Linxiang City"
         },
         {
-          "citysName": "醴陵市"
+          "citysName": "Liling"
         },
         {
-          "citysName": "湘乡市"
+          "citysName": "Xiangxiang"
         },
         {
-          "citysName": "韶山市"
+          "citysName": "Shaoshan"
         },
         {
-          "citysName": "资兴市"
+          "citysName": "Zixing"
         },
         {
-          "citysName": "武冈市"
+          "citysName": "Wugang"
         },
         {
-          "citysName": "洪江市"
+          "citysName": "Hongjiang"
         },
         {
-          "citysName": "冷水江市"
+          "citysName": "Lengshuijiang City"
         },
         {
-          "citysName": "涟源市"
+          "citysName": "Lianyuan City"
         },
         {
-          "citysName": "吉首市"
+          "citysName": "Jishou"
         }
       ],
-      "provinceName": "湖南省"
+      "provinceName": "Hunan"
     },
     {
       "citys": [
         {
-          "citysName": "广州市"
+          "citysName": "Guangzhou"
         },
         {
-          "citysName": "深圳市"
+          "citysName": "Shenzhen"
         },
         {
-          "citysName": "清远市"
+          "citysName": "Qingyuan"
         },
         {
-          "citysName": "韶关市"
+          "citysName": "Shaoguan"
         },
         {
-          "citysName": "河源市"
+          "citysName": "Heyuan"
         },
         {
-          "citysName": "梅州市"
+          "citysName": "Meizhou"
         },
         {
-          "citysName": "潮州市"
+          "citysName": "Chaozhou"
         },
         {
-          "citysName": "汕头市"
+          "citysName": "Shantou"
         },
         {
-          "citysName": "揭阳市"
+          "citysName": "Jieyang"
         },
         {
-          "citysName": "汕尾市"
+          "citysName": "Shanwei"
         },
         {
-          "citysName": "惠州市"
+          "citysName": "Huizhou"
         },
         {
-          "citysName": "东莞市"
+          "citysName": "Dongguan"
         },
         {
-          "citysName": "珠海市"
+          "citysName": "Zhuhai"
         },
         {
-          "citysName": "中山市"
+          "citysName": "Zhongshan"
         },
         {
-          "citysName": "江门市"
+          "citysName": "Jiangmen"
         },
         {
-          "citysName": "佛山市"
+          "citysName": "Foshan"
         },
         {
-          "citysName": "肇庆市"
+          "citysName": "Zhaoqing"
         },
         {
-          "citysName": "云浮市"
+          "citysName": "Yunfu"
         },
         {
-          "citysName": "阳江市"
+          "citysName": "Yangjiang"
         },
         {
-          "citysName": "茂名市"
+          "citysName": "Maoming"
         },
         {
-          "citysName": "湛江市"
+          "citysName": "Zhanjiang"
         },
         {
-          "citysName": "英德市"
+          "citysName": "Yingde"
         },
         {
-          "citysName": "连州市"
+          "citysName": "Lianzhou"
         },
         {
-          "citysName": "乐昌市"
+          "citysName": "Lechang"
         },
         {
-          "citysName": "南雄市"
+          "citysName": "Nanxiong City"
         },
         {
-          "citysName": "兴宁市"
+          "citysName": "Xingning"
         },
         {
-          "citysName": "普宁市"
+          "citysName": "Puning"
         },
         {
-          "citysName": "陆丰市"
+          "citysName": "Lufeng"
         },
         {
-          "citysName": "恩平市"
+          "citysName": "Enping"
         },
         {
-          "citysName": "台山市"
+          "citysName": "Taishan"
         },
         {
-          "citysName": "开平市"
+          "citysName": "Kaiping"
         },
         {
-          "citysName": "鹤山市"
+          "citysName": "Heshan"
         },
         {
-          "citysName": "四会市"
+          "citysName": "Sihui"
         },
         {
-          "citysName": "罗定市"
+          "citysName": "Luoding"
         },
         {
-          "citysName": "阳春市"
+          "citysName": "Spring City"
         },
         {
-          "citysName": "化州市"
+          "citysName": "the City"
         },
         {
-          "citysName": "信宜市"
+          "citysName": "Xinyi"
         },
         {
-          "citysName": "高州市"
+          "citysName": "High City"
         },
         {
-          "citysName": "吴川市"
+          "citysName": "Wuchuan"
         },
         {
-          "citysName": "廉江市"
+          "citysName": "Lianjiang"
         },
         {
-          "citysName": "雷州市"
+          "citysName": "Leizhou"
         }
       ],
-      "provinceName": "广东省"
+      "provinceName": "Guangdong Province"
     },
     {
       "citys": [
         {
-          "citysName": "南宁市"
+          "citysName": "Nanning"
         },
         {
-          "citysName": "桂林市"
+          "citysName": "Guilin"
         },
         {
-          "citysName": "柳州市"
+          "citysName": "Liuzhou"
         },
         {
-          "citysName": "梧州市"
+          "citysName": "Wuzhou"
         },
         {
-          "citysName": "贵港市"
+          "citysName": "Guigang"
         },
         {
-          "citysName": "玉林市"
+          "citysName": "Yulin"
         },
         {
-          "citysName": "钦州市"
+          "citysName": "Qinzhou"
         },
         {
-          "citysName": "北海市"
+          "citysName": "Beihai"
         },
         {
-          "citysName": "防城港市"
+          "citysName": "Fangchenggang City."
         },
         {
-          "citysName": "崇左市"
+          "citysName": "Chongzuo"
         },
         {
-          "citysName": "百色市"
+          "citysName": "Baise"
         },
         {
-          "citysName": "河池市"
+          "citysName": "Hechi"
         },
         {
-          "citysName": "来宾市"
+          "citysName": "Laibin"
         },
         {
-          "citysName": "贺州市"
+          "citysName": "Hezhou"
         },
         {
-          "citysName": "岑溪市"
+          "citysName": "Cenxi"
         },
         {
-          "citysName": "桂平市"
+          "citysName": "Guiping"
         },
         {
-          "citysName": "北流市"
+          "citysName": "Beiliu"
         },
         {
-          "citysName": "东兴市"
+          "citysName": "Dongxing"
         },
         {
-          "citysName": "凭祥市"
+          "citysName": "Pingxiang City"
         },
         {
-          "citysName": "宜州市"
+          "citysName": "Yizhou"
         },
         {
-          "citysName": "合山市"
+          "citysName": "Heshan City"
         },
         {
-          "citysName": "靖西市"
+          "citysName": "Jingxi"
         }
       ],
-      "provinceName": "广西壮族自治区"
+      "provinceName": "Guangxi Zhuang Autonomous Region"
     },
     {
       "citys": [
         {
-          "citysName": "海口市"
+          "citysName": "Haikou"
         },
         {
-          "citysName": "三亚市"
+          "citysName": "Sanya City"
         },
         {
-          "citysName": "三沙市"
+          "citysName": "Sansha"
         },
         {
-          "citysName": "儋州市"
+          "citysName": "Danzhou"
         },
         {
-          "citysName": "文昌市"
+          "citysName": "Wenchang City"
         },
         {
-          "citysName": "琼海市"
+          "citysName": "Qionghai"
         },
         {
-          "citysName": "万宁市"
+          "citysName": "Wanning City"
         },
         {
-          "citysName": "东方市"
+          "citysName": "Oriental City"
         },
         {
-          "citysName": "五指山市"
+          "citysName": "Wuzhishan"
         }
       ],
-      "provinceName": "海南省"
+      "provinceName": "Hainan"
     },
     {
       "citys": [
         {
-          "citysName": "成都市"
+          "citysName": "Chengdu"
         },
         {
-          "citysName": "广元市"
+          "citysName": "Guangyuan"
         },
         {
-          "citysName": "绵阳市"
+          "citysName": "Mianyang"
         },
         {
-          "citysName": "德阳市"
+          "citysName": "Deyang"
         },
         {
-          "citysName": "南充市"
+          "citysName": "Nanchong"
         },
         {
-          "citysName": "广安市"
+          "citysName": "Guang'an"
         },
         {
-          "citysName": "遂宁市"
+          "citysName": "Suining"
         },
         {
-          "citysName": "内江市"
+          "citysName": "Neijiang"
         },
         {
-          "citysName": "乐山市"
+          "citysName": "Leshan"
         },
         {
-          "citysName": "自贡市"
+          "citysName": "Zigong"
         },
         {
-          "citysName": "泸州市"
+          "citysName": "Luzhou"
         },
         {
-          "citysName": "宜宾市"
+          "citysName": "Yibin"
         },
         {
-          "citysName": "攀枝花市"
+          "citysName": "Panzhihua"
         },
         {
-          "citysName": "巴中市"
+          "citysName": "Bazhong"
         },
         {
-          "citysName": "达州市"
+          "citysName": "Dazhou"
         },
         {
-          "citysName": "资阳市"
+          "citysName": "Ziyang"
         },
         {
-          "citysName": "眉山市"
+          "citysName": "Meishan City"
         },
         {
-          "citysName": "雅安市"
+          "citysName": "Ya'an"
         },
         {
-          "citysName": "崇州市"
+          "citysName": "Chong City"
         },
         {
-          "citysName": "邛崃市"
+          "citysName": "Qionglai"
         },
         {
-          "citysName": "都江堰市"
+          "citysName": "Dujiangyan City"
         },
         {
-          "citysName": "彭州市"
+          "citysName": "Pengzhou"
         },
         {
-          "citysName": "江油市"
+          "citysName": "Jiangyou"
         },
         {
-          "citysName": "什邡市"
+          "citysName": "Shifang"
         },
         {
-          "citysName": "广汉市"
+          "citysName": "Guanghan"
         },
         {
-          "citysName": "绵竹市"
+          "citysName": "Mianzhu"
         },
         {
-          "citysName": "阆中市"
+          "citysName": "Langzhong"
         },
         {
-          "citysName": "华蓥市"
+          "citysName": "Huaying"
         },
         {
-          "citysName": "峨眉山市"
+          "citysName": "Emeishan"
         },
         {
-          "citysName": "万源市"
+          "citysName": "Wanyuan"
         },
         {
-          "citysName": "简阳市"
+          "citysName": "Jianyang"
         },
         {
-          "citysName": "西昌市"
+          "citysName": "Xichang"
         },
         {
-          "citysName": "康定市"
+          "citysName": "Kangding"
         },
         {
-          "citysName": "马尔康市"
+          "citysName": "barkam"
         }
       ],
-      "provinceName": "四川省"
+      "provinceName": "Sichuan"
     },
     {
       "citys": [
         {
-          "citysName": "贵阳市"
+          "citysName": "Guiyang"
         },
         {
-          "citysName": "六盘水市"
+          "citysName": "Liupanshui"
         },
         {
-          "citysName": "遵义市"
+          "citysName": "Zunyi"
         },
         {
-          "citysName": "安顺市"
+          "citysName": "Anshun"
         },
         {
-          "citysName": "毕节市"
+          "citysName": "Bijie City"
         },
         {
-          "citysName": "铜仁市"
+          "citysName": "Tongren"
         },
         {
-          "citysName": "清镇市"
+          "citysName": "Qingzhen City"
         },
         {
-          "citysName": "赤水市"
+          "citysName": "Chishui"
         },
         {
-          "citysName": "仁怀市"
+          "citysName": "Renhuai"
         },
         {
-          "citysName": "凯里市"
+          "citysName": "Kaili"
         },
         {
-          "citysName": "都匀市"
+          "citysName": "Duyun"
         },
         {
-          "citysName": "兴义市"
+          "citysName": "Xingyi City"
         },
         {
-          "citysName": "福泉市"
+          "citysName": "Fuquan"
         }
       ],
-      "provinceName": "贵州省"
+      "provinceName": "Guizhou Province"
     },
     {
       "citys": [
         {
-          "citysName": "昆明市"
+          "citysName": "Kunming"
         },
         {
-          "citysName": "曲靖市"
+          "citysName": "Qujing"
         },
         {
-          "citysName": "玉溪市"
+          "citysName": "Yuxi"
         },
         {
-          "citysName": "丽江市"
+          "citysName": "Lijiang"
         },
         {
-          "citysName": "昭通市"
+          "citysName": "Zhaotong City"
         },
         {
-          "citysName": "普洱市"
+          "citysName": "Pu'er"
         },
         {
-          "citysName": "临沧市"
+          "citysName": "Lincang"
         },
         {
-          "citysName": "保山市"
+          "citysName": "Baoshan"
         },
         {
-          "citysName": "安宁市"
+          "citysName": "peace city"
         },
         {
-          "citysName": "宣威市"
+          "citysName": "Xuanwei"
         },
         {
-          "citysName": "芒市"
+          "citysName": "Mans"
         },
         {
-          "citysName": "瑞丽市"
+          "citysName": "Ruili"
         },
         {
-          "citysName": "大理市"
+          "citysName": "Dali"
         },
         {
-          "citysName": "楚雄市"
+          "citysName": "Chuxiong"
         },
         {
-          "citysName": "个旧市"
+          "citysName": "old city"
         },
         {
-          "citysName": "开远市"
+          "citysName": "Kaiyuan"
         },
         {
-          "citysName": "蒙自市"
+          "citysName": "Mengzi City"
         },
         {
-          "citysName": "弥勒市"
+          "citysName": "Maitreya City"
         },
         {
-          "citysName": "景洪市"
+          "citysName": "Jinghong"
         },
         {
-          "citysName": "文山市"
+          "citysName": "Wenshan City"
         },
         {
-          "citysName": "香格里拉市"
+          "citysName": "La City"
         },
         {
-          "citysName": "腾冲市"
+          "citysName": "Tengchong"
         }
       ],
-      "provinceName": "云南省"
+      "provinceName": "Yunnan"
     },
     {
       "citys": [
         {
-          "citysName": "西安市"
+          "citysName": "Xi'an"
         },
         {
-          "citysName": "延安市"
+          "citysName": "Yan'an City"
         },
         {
-          "citysName": "铜川市"
+          "citysName": "Tongchuan"
         },
         {
-          "citysName": "渭南市"
+          "citysName": "Weinan City"
         },
         {
-          "citysName": "咸阳市"
+          "citysName": "Xianyang City"
         },
         {
-          "citysName": "宝鸡市"
+          "citysName": "Baoji"
         },
         {
-          "citysName": "汉中市"
+          "citysName": "Hanzhong"
         },
         {
-          "citysName": "榆林市"
+          "citysName": "Yulin"
         },
         {
-          "citysName": "商洛市"
+          "citysName": "Shangluo City"
         },
         {
-          "citysName": "安康市"
+          "citysName": "Ankang"
         },
         {
-          "citysName": "韩城"
+          "citysName": "Hancheng"
         },
         {
-          "citysName": "华阴"
+          "citysName": "Huayin"
         },
         {
-          "citysName": "兴平"
+          "citysName": "Xingping"
         }
       ],
-      "provinceName": "陕西省"
+      "provinceName": "Shaanxi Province"
     },
     {
       "citys": [
         {
-          "citysName": "兰州市"
+          "citysName": "Lanzhou"
         },
         {
-          "citysName": "嘉峪关市"
+          "citysName": "Jiayuguan"
         },
         {
-          "citysName": "金昌市"
+          "citysName": "Jinchang"
         },
         {
-          "citysName": "白银市"
+          "citysName": "Silver City"
         },
         {
-          "citysName": "天水市"
+          "citysName": "Tianshui"
         },
         {
-          "citysName": "酒泉市"
+          "citysName": "Jiuquan"
         },
         {
-          "citysName": "张掖市"
+          "citysName": "Zhangye City"
         },
         {
-          "citysName": "武威市"
+          "citysName": "Wuwei City"
         },
         {
-          "citysName": "庆阳市"
+          "citysName": "Qingyang"
         },
         {
-          "citysName": "平凉市"
+          "citysName": "Pingliang"
         },
         {
-          "citysName": "定西市"
+          "citysName": "Dingxi City"
         },
         {
-          "citysName": "陇南市"
+          "citysName": "Longnan City"
         },
         {
-          "citysName": "玉门市"
+          "citysName": "Yumen"
         },
         {
-          "citysName": "敦煌市"
+          "citysName": "Dunhuang"
         },
         {
-          "citysName": "临夏市"
+          "citysName": "Linxia"
         },
         {
-          "citysName": "合作市"
+          "citysName": "City Cooperation"
         }
       ],
-      "provinceName": "甘肃省"
+      "provinceName": "Gansu"
     },
     {
       "citys": [
         {
-          "citysName": "西宁市"
+          "citysName": "Xining"
         },
         {
-          "citysName": "海东市"
+          "citysName": "Haidong"
         },
         {
-          "citysName": "格尔木市"
+          "citysName": "Golmud City"
         },
         {
-          "citysName": "德令哈市"
+          "citysName": "Delingha"
         },
         {
-          "citysName": "玉树市"
+          "citysName": "Yushu City"
         }
       ],
-      "provinceName": "青海省"
+      "provinceName": "Qinghai"
     },
     {
       "citys": [
         {
-          "citysName": "拉萨市"
+          "citysName": "Lhasa"
         },
         {
-          "citysName": "日喀则市"
+          "citysName": "Shigatse"
         },
         {
-          "citysName": "昌都市"
+          "citysName": "Chamdo"
         },
         {
-          "citysName": "林芝市"
+          "citysName": "Nyingchi"
         },
         {
-          "citysName": "山南市"
+          "citysName": "Nan Shan"
         }
       ],
-      "provinceName": "西藏自治区"
+      "provinceName": "Tibet Autonomous Region"
     },
     {
       "citys": [
         {
-          "citysName": "银川市"
+          "citysName": "Yinchuan"
         },
         {
-          "citysName": "石嘴山市"
+          "citysName": "Shizuishan"
         },
         {
-          "citysName": "吴忠市"
+          "citysName": "Wuzhong"
         },
         {
-          "citysName": "中卫市"
+          "citysName": "Zhongwei"
         },
         {
-          "citysName": "固原市"
+          "citysName": "Guyuan"
         },
         {
-          "citysName": "灵武市"
+          "citysName": "Lingwu"
         },
         {
-          "citysName": "青铜峡市"
+          "citysName": "Qingtongxia"
         }
       ],
-      "provinceName": "宁夏回族自治区"
+      "provinceName": "Ningxia Hui Autonomous Region"
     },
     {
       "citys": [
         {
-          "citysName": "台北市"
+          "citysName": "Taipei"
         },
         {
-          "citysName": "新北市"
+          "citysName": "New Taipei City"
         },
         {
-          "citysName": "桃园市"
+          "citysName": "Taoyuan"
         },
         {
-          "citysName": "台中市"
+          "citysName": "Taichung"
         },
         {
-          "citysName": "台南市"
+          "citysName": "Tainan"
         },
         {
-          "citysName": "高雄市"
+          "citysName": "Kaohsiung"
         },
         {
-          "citysName": "基隆市"
+          "citysName": "Keelung"
         },
         {
-          "citysName": "新竹市"
+          "citysName": "Hsinchu"
         },
         {
-          "citysName": "嘉义市"
+          "citysName": "Chiayi City"
         }
       ],
-      "provinceName": "台湾"
+      "provinceName": "Taiwan"
     },
     {
       "citys": [
         {
-          "citysName": "北京市"
+          "citysName": "Beijing"
         }
       ],
-      "provinceName": "北京市"
+      "provinceName": "Beijing"
     },
     {
       "citys": [
         {
-          "citysName": "天津市"
+          "citysName": "Tianjin"
         }
       ],
-      "provinceName": "天津市"
+      "provinceName": "Tianjin"
     },
     {
       "citys": [
         {
-          "citysName": "上海市"
+          "citysName": "Shanghai"
         }
       ],
-      "provinceName": "上海市"
+      "provinceName": "Shanghai"
     },
     {
       "citys": [
         {
-          "citysName": "重庆市"
+          "citysName": "Chongqing"
         }
       ],
-      "provinceName": "重庆市"
+      "provinceName": "Chongqing"
     },
     {
       "citys": [
         {
-          "citysName": "香港特别行政区"
+          "citysName": "HKSAR"
         }
       ],
-      "provinceName": "香港"
+      "provinceName": "Hong Kong"
     },
     {
       "citys": [
         {
-          "citysName": "澳门特别行政区"
+          "citysName": "Macao Special Administrative Region"
         }
       ],
-      "provinceName": "澳门"
+      "provinceName": "Macao"
     },
     {
       "citys": [
         {
-          "citysName": "乌鲁木齐市"
+          "citysName": "Urumqi"
         },
         {
-          "citysName": "克拉玛依市"
+          "citysName": "Karamay"
         },
         {
-          "citysName": "吐鲁番市"
+          "citysName": "Turpan"
         },
         {
-          "citysName": "哈密市"
+          "citysName": "Hami"
         },
         {
-          "citysName": "喀什市"
+          "citysName": "Kashi"
         },
         {
-          "citysName": "阿克苏市"
+          "citysName": "Aksu city"
         },
         {
-          "citysName": "和田市"
+          "citysName": "Hotan"
         },
         {
-          "citysName": "阿图什市"
+          "citysName": "Artux"
         },
         {
-          "citysName": "阿拉山口市"
+          "citysName": "alashankou"
         },
         {
-          "citysName": "博乐市"
+          "citysName": "Bole"
         },
         {
-          "citysName": "昌吉市"
+          "citysName": "Changji"
         },
         {
-          "citysName": "阜康市"
+          "citysName": "Fukang"
         },
         {
-          "citysName": "库尔勒市"
+          "citysName": "Korla"
         },
         {
-          "citysName": "伊宁市"
+          "citysName": "Yining"
         },
         {
-          "citysName": "奎屯市"
+          "citysName": "Kuitun"
         },
         {
-          "citysName": "塔城市"
+          "citysName": "tower city"
         },
         {
-          "citysName": "乌苏市"
+          "citysName": "Wusu"
         },
         {
-          "citysName": "阿勒泰市"
+          "citysName": "Altay"
         },
         {
-          "citysName": "霍尔果斯市"
+          "citysName": "Khorgas"
         },
         {
-          "citysName": "石河子市"
+          "citysName": "Shihezi"
         },
         {
-          "citysName": "阿拉尔市"
+          "citysName": "Alar"
         },
         {
-          "citysName": "图木舒克市"
+          "citysName": "Tumxuk"
         },
         {
-          "citysName": "五家渠市"
+          "citysName": "Wujiaqu"
         },
         {
-          "citysName": "北屯市"
+          "citysName": "Beitun City"
         },
         {
-          "citysName": "铁门关市"
+          "citysName": "Tiemenguan City"
         },
         {
-          "citysName": "双河市"
+          "citysName": "Shuanghe"
         },
         {
-          "citysName": "可克达拉市"
+          "citysName": "Kokdala"
         },
         {
-          "citysName": "昆玉市"
+          "citysName": "Kun-yu City"
         }
       ],
-      "provinceName": "新疆维吾尔自治区"
+      "provinceName": "Xinjiang Uygur Autonomous Region"
     }
   ]
 }

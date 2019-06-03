@@ -51,7 +51,7 @@ export default class extends React.Component {
         navigation.state.params.backToHome === false ? false : true
         : true
       return (
-        <HeaderDefault title="地址管理" backToHome={backToHome} navigation={navigation} />
+        <HeaderDefault title="Address management" backToHome={backToHome} navigation={navigation} />
       )
     }
   })
@@ -65,7 +65,7 @@ export default class extends React.Component {
   }
 
   /**
-   * 更改默认选中地址
+   * Change the default selected address
    */
   handleChecked = async (addressId) => {
     const {
@@ -82,7 +82,7 @@ export default class extends React.Component {
   }
 
   /**
-   * 删除地址
+   * Delete address
    */
   handleDelete = async (addressId) => {
     const {

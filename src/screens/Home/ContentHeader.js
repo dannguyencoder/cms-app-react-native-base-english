@@ -72,7 +72,7 @@ export default class extends React.Component {
       })
     } catch(err) {
       Toast.show({
-        text: '网络异常',
+        text: 'network anomaly',
         position: 'top',
         type: 'danger'
       })
@@ -110,7 +110,7 @@ export default class extends React.Component {
               resizeMode="cover"
               source={{ uri: "http://119.29.161.228/cloudimg/advs/guoshushengxian.jpg"}}
             />
-            <Text style={styles.itemText}>精品水果</Text>
+            <Text style={styles.itemText}>Fine fruit</Text>
           </View>
           <View style={styles.horizontalListItem}>
             <Image
@@ -118,7 +118,7 @@ export default class extends React.Component {
               resizeMode="cover"
               source={{ uri: "http://119.29.161.228/cloudimg/advs/putaojiu.jpg"}}
             />
-            <Text style={styles.itemText}>中外名酒</Text>
+            <Text style={styles.itemText}>Chinese and foreign famous wine</Text>
           </View>
           <View style={styles.horizontalListItem}>
             <Image
@@ -126,7 +126,7 @@ export default class extends React.Component {
               resizeMode="cover"
               source={{ uri: "http://119.29.161.228/cloudimg/advs/longxia.jpg"}}
             />
-            <Text style={styles.itemText}>天天海鲜</Text>
+            <Text style={styles.itemText}>Everyday seafood</Text>
           </View> */}
         </ScrollView>
       </View>

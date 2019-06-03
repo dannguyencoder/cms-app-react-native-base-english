@@ -36,7 +36,7 @@ const styles = StyleSheet.create({
 
 export default class extends React.Component {
   state = {
-    search: "测试"
+    search: "test"
   }
 
   handleBack = () => {

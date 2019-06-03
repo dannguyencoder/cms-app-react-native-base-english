@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
 )
 export default class EditInfo extends React.Component {
   static navigationOptions = ({ navigation }) => ({
-    title: '编辑个人资料',
+    title: 'Edit profile',
     tabBarComponent: null
   })
 
@@ -84,7 +84,7 @@ export default class EditInfo extends React.Component {
     editSex: false,
     editPhone: false,
     nickName: '',
-    sex: '男',
+    sex: 'male',
     phone: ''
   }
 
@@ -162,7 +162,7 @@ export default class EditInfo extends React.Component {
       })
     } else {
       Toast.show({
-        text: '修改成功',
+        text: 'Successfully modified',
         position: 'top',
         type: 'success'
       })
@@ -199,7 +199,7 @@ export default class EditInfo extends React.Component {
               this.state.editName ? (
                 <Item>
                   <Input
-                    placeholder='请输入您要修改的昵称'
+                    placeholder='Please enter the nickname you want to modify'
                     onChangeText={(text) => this.setState({nickName: text})}
                   />
                   <TouchableNativeFeedback onPress={this.handleCancelEditName}>
@@ -211,19 +211,19 @@ export default class EditInfo extends React.Component {
                 </Item>
               ) : (
                 <Text style={{textAlign: 'center', color: RED_COLOR_ACTIVE, fontSize: 18}}>
-                  编辑昵称
+                  Edit nickname
                 </Text>
               )
             }
           </View>
         </TouchableNativeFeedback>
         <Text style={{padding: 12, textAlign: 'center', color: '#333', fontSize: 18}}>
-          私人信息
+          private information
         </Text>
         <List>
           <List.Item touchalbe>
             <Left>
-              <Text>邮箱号</Text>
+              <Text>Mailbox number</Text>
             </Left>
             <Right>
               <Text style={{color: RED_COLOR_ACTIVE}}>{user.userName}</Text>
@@ -234,14 +234,14 @@ export default class EditInfo extends React.Component {
                 this.state.editSex ? (
                   <Item>
                     <CheckBox
-                      checked={this.state.sex === '男'}
+                      checked={this.state.sex === 'male'}
                       style={{marginRight: 12}}
-                      onPress={() => this.setState({sex: '男'})}
+                      onPress={() => this.setState({sex: 'male'})}
                     /><Text>男</Text>
                     <CheckBox
-                      checked={this.state.sex === '女'}
+                      checked={this.state.sex === 'Female'}
                       style={{marginRight: 12}}
-                      onPress={() => this.setState({sex: '女'})}
+                      onPress={() => this.setState({sex: 'Female'})}
                     /><Text style={{marginRight: 20}}>女</Text>
                     <Right>
                       <View>
@@ -257,7 +257,7 @@ export default class EditInfo extends React.Component {
                 ) : (
                   <List.Item >
                     <Left>
-                      <Text>性别</Text>
+                      <Text>gender</Text>
                     </Left>
                     <Right>
                       <Text style={{color: RED_COLOR_ACTIVE}}>{user.sex}</Text>
@@ -270,7 +270,7 @@ export default class EditInfo extends React.Component {
               this.state.editPhone ? (
                 <Item>
                   <Input
-                    placeholder='请输入电话号码'
+                    placeholder='Please enter your phone number'
                     onChangeText={(text) => this.setState({phone: text})}
                   />
                   <TouchableNativeFeedback onPress={this.handleCancelEditPhone}>
@@ -283,7 +283,7 @@ export default class EditInfo extends React.Component {
               ) : (
               <List.Item last touchalbe>
                 <Left>
-                  <Text>电话</Text>
+                  <Text>phone</Text>
                 </Left>
                 <Right>
                   <Text style={{color: RED_COLOR_ACTIVE}}>{user.phone}</Text>
@@ -295,7 +295,7 @@ export default class EditInfo extends React.Component {
         <TouchableNativeFeedback onPress={this.handleEditAll}>
           <View style={styles.actionBorderLast}>
             <Text style={{textAlign: 'center', color: RED_COLOR_ACTIVE, fontSize: 18}}>
-              编辑个人信息
+              Edit personal information
             </Text>
           </View>
         </TouchableNativeFeedback>

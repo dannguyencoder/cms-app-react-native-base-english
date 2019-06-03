@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
 })
 
 /**
- * 购物车页面, 使用了listView进行更改购物车内容，局部刷新
+ * Shopping cart page, using listView to change shopping cart content, partial refresh
  *
  * @export
  * @class
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
 )
 export default class Cart extends React.Component {
   static navigationOptions = ({navigation}) => ({
-    header: <HeaderDefault title="购物车" />
+    header: <HeaderDefault title="shopping cart" />
   })
 
   state = {
@@ -116,7 +116,7 @@ export default class Cart extends React.Component {
 
   componentWillMount() {
     if (!this.props.isAuthorized) {
-      this._showToast('请先登录', 'danger')
+      this._showToast('please log in first', 'danger')
       this.props.navigation.navigate('Signin', { from: 'Cart'} )
     } else {
       this.props.getCart(this.props.userId)
@@ -125,7 +125,7 @@ export default class Cart extends React.Component {
 
   componentDidMount() {
     if (!this.props.isAuthorized) {
-      this._showToast('请先登录', 'danger')
+      this._showToast('please log in first', 'danger')
       this.props.navigation.navigate('Signin', { from: 'Cart'} )
     } else {
       this.props.getCart(this.props.userId)
@@ -171,7 +171,7 @@ export default class Cart extends React.Component {
     } = this.state
     let exist = false
 
-    // 原值为false， 为要加入购物车
+    // The original value is false, in order to join the shopping cart.
     if (value.checked === false) {
       totalNum = totalNum + value.count
       amount = amount + value.count * 1.0 * value.good.price
@@ -180,7 +180,7 @@ export default class Cart extends React.Component {
       amount -= value.count * 1.0 * value.good.price
     }
 
-    // 更新购物车物品是否选中
+    // Update shopping cart item is selected
     const indexOf = cartState.findIndex(v => v.cartDetailId === value.cartDetailId)
     cartState[indexOf] = Object.assign({}, cartState[indexOf], { checked: !cartState[indexOf].checked} )
 
@@ -213,7 +213,7 @@ export default class Cart extends React.Component {
     let totalNum = 0
     let amount = 0
 
-    // 原值为false， 动作为： 全选购物车商品
+    // The original value is false, and the action is as follows:
     if (!cartChecked) {
       cartState = cartState.map((item) => {
         totalNum += item.count
@@ -268,7 +268,7 @@ export default class Cart extends React.Component {
   }
 
   /**
-   * 商品数量加减
+   * Add and subtract quantity of goods
    *
    */
   _handleGoodCountChange = async (value, count) => {
@@ -324,7 +324,7 @@ export default class Cart extends React.Component {
   }
 
   /**
-   * ListView   row渲染
+   * ListView   Row rendering
    *
    */
   _renderList = (rowData, sectionId, rowId) => {
@@ -355,7 +355,7 @@ export default class Cart extends React.Component {
     })
 
     if (currentChecked.length === 0) {
-      this._showToast('请选择您要购买的商品')
+      this._showToast('Please select the item you want to buy')
       return
     }
 
@@ -423,7 +423,7 @@ export default class Cart extends React.Component {
                     </Text>
                   </TouchableNativeFeedback>
                 </View>
-                {/* 通过listView实现局部刷新 */}
+                {/* Partial refresh through listView */}
                 <ListView
                   dataSource={dataSource}
                   renderRow={this._renderList}

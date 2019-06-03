@@ -2,9 +2,9 @@ let  SYNC = {};
 SYNC.user3 =(params)=>{
 
     if(params == null) return;
-    // sync方法的名字必须和所存数据的key完全相同
-    // 方法接受的参数为一整个object，所有参数从object中解构取出
-    // 这里可以使用promise。或是使用普通回调函数，但需要调用resolve或reject。
+    // The name of the sync method must be exactly the same as the key of the stored data.
+    // The argument accepted by the method is an entire object, and all parameters are deconstructed from the object.
+    // Here you can use promise. Or use a normal callback function, but need to call resolve or reject.
       let { id, resolve, reject, syncParams: { extraFetchOptions, someFlag } } = params;
       fetch('user/', {
         method: 'GET',
@@ -22,14 +22,14 @@ SYNC.user3 =(params)=>{
           });
 
           if (someFlag) {
-            // 根据syncParams中的额外参数做对应处理
+            // Corresponding processing according to additional parameters in syncParams
           }
 
-          // 成功则调用resolve
+          // If successful, call resolve
           resolve && resolve(json.user);
         }
         else{
-          // 失败则调用reject
+          // If it fails, call reject
           reject && reject(new Error('data parse error'));
         }
       }).catch(err => {

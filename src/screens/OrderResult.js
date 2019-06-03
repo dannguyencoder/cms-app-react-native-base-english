@@ -57,7 +57,7 @@ const styles = StyleSheet.create({
 )
 export default class OrderResult extends React.Component {
   static navigationOptions = ({ navigation, postError, isPosting }) => ({
-    header: <HeaderDefault title="订单结果" navigation={navigation} backToHome />
+    header: <HeaderDefault title="Order result" navigation={navigation} backToHome />
   })
 
   handleGotoHome = (e) => {
@@ -83,7 +83,7 @@ export default class OrderResult extends React.Component {
       postError
     } = this.props
 
-    const text = postError === '' ? '下单成功' : '下单失败：' + postError
+    const text = postError === '' ? 'successfully ordered' : 'Order failed：' + postError
 
     return (
       <View>

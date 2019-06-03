@@ -53,7 +53,7 @@ export default class Signin extends React.Component {
   }
 
   static navigationOptions = ({ navigation }) => ({
-    title: '登录',
+    title: 'log in',
     tabBarComponent: null
   })
 
@@ -86,7 +86,7 @@ export default class Signin extends React.Component {
       // await this.props.loadUser(userId, token)
 
       Toast.show({
-        text: '登录成功',
+        text: 'login successful',
         position: 'top',
         type: 'success'
       })
@@ -137,7 +137,7 @@ export default class Signin extends React.Component {
       >
         <Form>
           <Item floatingLabel>
-            <Label>用户名</Label>
+            <Label>username</Label>
             <Input
               value={this.state.username}
               onChangeText={(text) => this.setState({username: text})}
@@ -145,7 +145,7 @@ export default class Signin extends React.Component {
             />
           </Item>
           <Item floatingLabel last>
-            <Label>密码</Label>
+            <Label>password</Label>
             <Input
               value={this.state.password}
               type="password"
@@ -165,7 +165,7 @@ export default class Signin extends React.Component {
                 <Spinner />
               ) : null
             }
-            <Text>登录</Text>
+            <Text>log in</Text>
           </Button>
           <Button
             style={{marginTop: 10}}
@@ -174,7 +174,7 @@ export default class Signin extends React.Component {
             onPress={this.handleSignup}
             disabled={isFetching}
           >
-            <Text>立即注册</Text>
+            <Text>Sign up now</Text>
           </Button>
         </Form>
       </Content>
